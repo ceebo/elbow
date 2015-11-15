@@ -1,0 +1,10 @@
+Search code for construction arms in Conway's Game of Life
+
+elbow.py searches for atomic elbow operations in Golly. There are 
+parameters to alter at the top of the code, including the output file.
+
+gp-compile.py is a standalone python program to compile atomic 
+operations into a more useful recipe. The location of the recipe file is 
+specified at the top of the file. The input is taken from STDIN e.g.:
+
+python gp-compile < recipe.txt
