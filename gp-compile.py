@@ -213,6 +213,6 @@ for i in range(0, len(tokens), 2):
         assert(False)
 
     # convert from quarter diagonals to half diagonals
-    lanes.append(int(tokens[i+1]) // 2)
+    lanes.append(int(tokens[i+1]) // 2 + 1)
 
 lookahead("A", 0, lanes, parities, 6)
