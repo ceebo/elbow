@@ -2925,3 +2925,1712 @@ m-18DEr: e31 e33 e1
 m-15DG: e31 o-35 e9999 
 m-5DE: e31 e45 o-55 
 m-12DD: e33 o-3 o-1 
+m1DE: e33 e-5 e24 
+m-7DE: e33 e-5 e29 
+m2DB: e33 e-5 e46 
+m-26DAr: e33 o-12 e4 
+m-23DC: e33 o-12 e5 
+m-29DFr: e33 o-12 o-9 
+m-21DFr: e33 o-12 e-12 
+m-12DCr: e33 o-12 e31 
+m-10DCr: e33 e-13 e6 
+m-13DA: e33 e-13 e7 
+R-19m-17DBr: e33 o45 o-15 
+m-29DDr: e33 o45 e20 
+m-25DC: e33 o45 o9 
+m-20DAr: e33 e-45 e-58 
+m-19DDr: e33 e-45 e-60 
+m-7DFr: e35 e-9999 e-9999 
+m-18DCr: e35 o-8 e-12 
+m-11DBr: e35 o-22 e-20 
+m-11DDr: e35 e-49 o3 
+m-1DC: e7 o2 e5 o15 
+m-2DEr: e7 o7 o-9999 e21 
+R-11m0DCr: o7 e7 e-9999 o25 
+m-3DBr: e7 o7 e1 e0 
+m9DDr: e7 o7 e7 e0 
+m2DD: e7 o18 e-39 e-9999 
+m13DBr: e9 e9999 e-59 e9999 
+m8DF: e9 e9999 e-59 e5 
+m8DCr: e9 e9999 e-59 o1 
+m7DA: e9 e9999 e-59 e-3 
+m-28DEr: e9 e-9999 e0 e52 
+m-18DF: e9 o9999 o-1 e0 
+m-14DEr: e9 e0 e0 o-9999 
+L-29m-14DEr: o9 o0 o0 e-26 
+m-30DCr: e11 e9999 o-3 o-52 
+m0DD: e11 e9999 e6 e9999 
+R-13m0DD: e11 e9999 e6 e15 
+m0DCr: e11 e9999 e22 e6 
+m5DE: e11 e9999 e22 o-15 
+m-2DB: e11 e9999 e22 o-41 
+m10DCr: e11 e9999 e-24 o-15 
+m-19DG: e11 e9999 e36 e4 
+m-14DF: e11 e0 e0 e5 
+m-15DC: e11 e0 e0 e18 
+m-14DAr: e11 e0 e0 e25 
+m-6DCr: e11 e0 e6 e9999 
+m-9DC: e11 e0 e16 o-9 
+m-7DC: e11 e5 e-2 e9999 
+R-16m-21DE: e11 e5 e5 e-22 
+m-4DD: e11 e8 e-9999 o-15 
+m-5DC: e11 e9 o-3 e0 
+m-3DA: e11 e9 e-4 e0 
+m-8DCr: e11 e11 e9999 o-12 
+m-7DBr: e18 o-9999 o-9999 e0 
+m-11DC: e26 e0 e9999 e-13 
+m-19DA: e26 e0 o-11 e9999 
+m-22DAr: e26 e0 o-11 e0 
+m-35DDr: e26 e0 o-15 o-24 
+m-9DA: e26 e0 e-3 e9999 
+m-12DB: e26 e0 e-15 e-9999 
+m-8DF: e26 e0 o-18 e9999 
+m-27DFr: e26 e0 o-20 e28 
+R-28m-12DCr: e26 e0 o-28 e-8 
+m-8DEr: e26 e0 o-36 o-11 
+m-3DC: e26 e0 o-36 e-12 
+m-5DBr: e26 e0 o-36 e15 
+L-4m-10DAr: e26 e0 o-36 e18 
+m-9DDr: e26 e-2 o-1 e0 
+m-20DCr: e26 e-2 o-1 e6 
+L0m-21DA: o26 o-2 o32 o9999 
+L0m-22DAr: o26 o-2 o32 o6 
+L0m-29DA: o26 o-2 o32 o15 
+L0m-24DAr: o26 o-2 o32 o20 
+m-18DD: e26 e-2 o0 e-23 
+L-10m-15DBr: o26 o-2 e0 e-26 
+m-4DGr: e26 e4 e9999 o9999 
+m-18DB: e26 e4 o-1 e-8 
+m-6DB: e26 e7 e-9999 e0 
+m-16DB: e26 e7 e0 o8 
+m-11DFr: e26 e7 e1 o-5 
+L-44m-29DC: o26 o7 o3 o-22 
+m-22DF: e26 e7 o9 e-9999 
+R-10m-27DA: o26 e-7 e9999 e58 
+R-10m-26DD: o26 e-7 e9999 e60 
+m-7DG: e26 e8 e-8 e-12 
+m-12DF: e26 e8 o-9 e48 
+m4DCr: e26 e8 e-22 e-9999 
+m-28DCr: e26 e12 e9999 e-22 
+m-43DC: e26 e12 o-17 e-37 
+m-8DB: e26 e12 e-58 o-39 
+m-14DCr: e29 o-9999 o-9999 o7 
+m2DCr: e31 e-8 e-12 o-3 
+R-27m-9DE: e31 e-8 o-10 o-3 
+R-27m-13DBr: e31 e-8 o-10 o25 
+L-18m-16DAr: e31 e-8 e-13 e-52 
+m-27DBr: e31 o-13 e10 e-36 
+m-15DDr: e31 o-13 e-12 e9999 
+m-3DFr: e31 o-13 e-12 e19 
+R-22m-7DE: o31 o-16 o24 e26 
+R-16m-11DA: e31 o-17 e-20 e18 
+m-12DEr: e31 o-17 e-48 o-24 
+L-22m-16DGr: o31 o-22 e16 e-1 
+m-30DB: e31 e-22 o16 e-2 
+m-16DGr: e31 e-22 o16 e-6 
+m-22DCr: e31 e-22 o16 e16 
+m-16DD: e31 e-22 o16 e-34 
+m1DA: e31 e-22 o17 o-5 
+m-5DDr: e31 e-22 o27 e-24 
+R-16m-7DA: e31 e-22 o28 o27 
+m-13DC: e31 e-22 o37 e9999 
+m-10DD: e31 e-22 o51 o-25 
+R-8m-5DE: e31 e-22 o55 o-40 
+m5DBr: e31 e-22 o56 o0 
+m-17DA: e31 o-23 e30 o-51 
+m3DBr: e31 o-25 o0 e24 
+m10DB: e31 o-25 o47 o-6 
+L-7m10DB: o31 e-25 e47 e53 
+m-11DE: e31 o-27 e7 o9999 
+R-26m-11DE: o31 e-27 o7 e26 
+m-8DAr: e31 o-27 e8 e-18 
+m-24DD: e31 o-33 e-9999 e24 
+m-21DDr: e31 o-33 e31 e-9999 
+L-30m-21DDr: e31 o-33 e31 o-57 
+m4DEr: e31 o-33 e50 o45 
+m-27DA: e31 e-44 e11 e-4 
+m-24DCr: e31 e-44 e21 e0 
+m-20DB: e31 e45 o-3 o9999 
+m-23DBr: e31 e45 e5 o-1 
+m-19DC: e31 e45 o-5 e9999 
+R-25m-19DFr: o31 o45 o11 o13 
+m-26DEr: e31 e45 e11 e-16 
+m-25DA: e31 e45 e11 e-40 
+m-20DD: e31 e45 e14 e9999 
+m-25DDr: e31 e45 e-18 e27 
+m-27DG: e31 e45 e-28 o14 
+m-17DDr: e31 e45 e39 e-2 
+m-20DF: e31 e-48 e-9999 e-24 
+m-30DGr: e31 e-48 e-9999 e43 
+m-21DC: e31 e-48 e-9999 e45 
+m-25DE: e31 e-48 o9999 e18 
+m-26DF: e31 e-48 o-1 e1 
+R-6m-38DB: e31 e-52 o55 o55 
+m3DE: e33 e7 e15 e-30 
+m-18DGr: e33 e7 e31 e42 
+m-15DE: e33 e7 e31 o36 
+m-10DEr: e33 e7 e46 e-21 
+m-13DE: e33 e7 o9 o-1 
+m-15DA: e33 e7 o18 e6 
+R-21m-5DC: o33 o14 o44 e-21 
+L-12m-5DC: e33 e14 e46 e14 
+m-30DAr: e33 o-4 e-9999 e-22 
+m-15DFr: e33 o-4 o-9 e-9999 
+m-21DG: e33 o-4 e-10 e0 
+m-23DE: e33 o-4 e-14 e-9999 
+m-31DC: e33 o-4 e17 o7 
+m-16DF: e33 o-4 e-18 o9999 
+m-22DB: e33 o-4 e29 e-36 
+m3DA: e33 e-5 e30 e-4 
+m-21DBr: e33 o-10 e-9999 e24 
+m-31DA: e33 o-12 o-1 e7 
+m-28DB: e33 o-12 e-14 e-20 
+m-31DBr: e33 o-12 e-14 o-21 
+m-31DG: e33 o-12 e-14 e-36 
+L-15m-27DBr: o33 e-12 o17 o-22 
+m-22DEr: e33 o-12 o-19 e9 
+m-11DA: e33 o-12 e22 e9999 
+m-39DBr: e33 o-12 o-23 o24 
+R-26m-6DCr: o33 e-12 o25 o32 
+m-4DCr: e33 o-12 e34 e6 
+m-4DAr: e33 o-12 e34 e-44 
+m-29DA: e33 o-12 e-48 e1 
+m-37DDr: e33 o-12 e-48 e8 
+m-24DGr: e33 o-12 e57 o-9 
+m-39DC: e33 o-12 e57 o-17 
+m-19DE: e33 o-12 e57 e-20 
+m-4DEr: e33 o-12 e57 o-25 
+m-7DA: e33 o-14 e-9999 e9 
+m-2DD: e33 o-14 o-1 o-5 
+m-16DAr: e33 o-18 e0 e-16 
+m-23DFr: e33 o-34 e9 e-16 
+m-18DAr: e33 o45 e0 e-58 
+m-17DE: e33 o45 o-27 e-18 
+m-28DD: e33 o45 e36 e19 
+m-26DD: e33 o45 e38 e16 
+m-25DFr: e33 o45 e39 o5 
+R-38m-26DCr: o33 e45 o41 e-9999 
+m-29DC: e33 o45 o11 o-36 
+m-31DE: e33 o45 o32 o-21 
+m-14DGr: e33 e-45 o-17 o-31 
+R0m-12DF: o33 e-46 e42 e-1 
+m4DB: e35 o-8 e23 e-20 
+m12DD: e35 o-8 e23 o-31 
+m1DG: e35 o-8 e23 e-36 
+L-2m-9DC: e35 o-8 e41 e-38 
+m-10DGr: e35 o-8 e41 e-58 
+m4DGr: e35 o-20 e-44 e28 
+m-26DGr: e35 o-20 e53 e31 
+m5DFr: e35 o-22 e-50 e-9999 
+m-19DFr: e35 e-49 e-2 o-5 
+L-11m-3DG: e7 o-1 e-56 o-10 o-32 
+L-11m-7DE: o7 e-4 o0 o-41 o9999 
+L-11m-7DE: e7 o-4 o-1 e-41 e9999 
+L-11m-7DE: o7 e-4 o-2 o-41 o9999 
+L-11m-7DE: e7 o-4 o-3 e-41 e9999 
+R-7m9DDr: e7 o7 e14 e0 e0 
+R2m-12DEr: o7 e12 e-1 o53 o9 
+R2m-8DCr: o7 e12 e-1 o53 o20 
+L6m-25DFr: o7 e12 o9 o28 o9999 
+L-23m-1DE: o7 e12 o10 o32 e4 
+L-23m-1DE: e7 o12 e10 o32 o4 
+L-15m-3DFr: o7 e12 o16 o0 o0 
+R-1m9DDr: e7 o12 e37 e4 e-4 
+L-9m9DDr: o7 e12 e0 o12 o26 
+L-9m10DB: e7 o12 o0 o12 e-36 
+L-20m9DDr: e7 o13 e54 e1 e9999 
+L4m3DA: o7 e15 o9999 o-35 o-16 
+L4m-9DG: o7 e15 o9999 o-35 e-21 
+L-17m4DEr: o7 e15 e-16 o-20 e-31 
+L-17m-3DC: o7 e15 e-16 o-20 e-37 
+R-1m12DF: e7 o18 o-11 e-24 e28 
+R-27m9DDr: e7 o31 e9 o-1 o44 
+R-27m9DDr: e7 o31 e9 o-3 o44 
+L-27m-12DF: o9 o9999 o29 o-2 e38 
+R-18m4DAr: e9 e9999 o37 o-19 e9999 
+R-11m-26DF: o9 o9999 o-55 e9999 o0 
+L11m-18DAr: o9 e9999 e9999 o3 e-1 
+L11m-17DA: o9 e9999 e9999 o3 o15 
+R-13m-18DF: o9 e9999 e9999 e-47 o-9999 
+L-8m-18DF: o9 e9999 e9999 o-48 o-9999 
+R-27m4DAr: o9 e9999 o36 e10 e28 
+R-24m4DAr: e9 o9999 e45 e-60 o27 
+R-13m4DAr: o9 e9999 o51 o-14 e4 
+L-34m4DAr: e9 o9999 e56 e24 e-10 
+L-35m4DAr: e9 o9999 e56 e26 e-10 
+L-13m6DGr: e9 o9999 e-43 e23 o10 
+L-13m-7DA: e9 o9999 e-43 e23 o35 
+L-15m-3DFr: o9 o0 e9 e51 e-25 
+L18m-4DGr: e9 e0 o37 o9999 e-46 
+L-14m10DCr: e11 e9999 e-24 e-18 e-29 
+L-21m10DCr: e11 e9999 e-24 e-50 o30 
+R1m-20DAr: e11 e9999 o-27 o-32 e-9999 
+R1m-21DA: e11 e9999 o-27 o-32 e-6 
+R1m-28DAr: e11 e9999 o-27 o-32 o-15 
+R1m-23DA: e11 e9999 o-27 o-32 e-20 
+R0m13DDr: o11 o0 o14 o37 o1 
+R0m-3DFr: o11 o0 o14 o37 o-44 
+R0m-4DAr: o11 o0 o14 o37 e-47 
+R1m-4DGr: e11 e0 e44 e4 e0 
+R1m0DD: e11 e0 e44 e-1 o58 
+L-19m-27DA: o11 o0 o46 o-35 o3 
+R2m-10DD: e11 e5 e9999 o-19 e9999 
+L-10m6DF: o11 o9 e-21 o18 o5 
+R-32m-8DCr: e11 e11 e5 e9999 o-12 
+L-41m-8DCr: e11 e11 e13 e-9999 o-12 
+L-41m-8DCr: o11 o11 o13 e-9999 e-12 
+R-40m-8DCr: e11 e11 e13 o-31 o-12 
+R-40m-8DCr: o11 o11 o13 o-31 e-12 
+R-32m-8DCr: o11 o11 e5 o9999 e-12 
+R-15m-18DAr: o26 o0 o9999 o7 o0 
+R-15m-16DCr: o26 o0 o9999 o7 o39 
+R-30m-12DCr: e26 e0 o-22 e9999 e2 
+L-29m-12DCr: e26 e0 o-22 e31 e2 
+L-22m-27DC: e26 e0 o-28 e-1 e10 
+R-17m-9DC: o26 o0 o-29 e-15 e-21 
+L-3m-16DD: e26 e0 o-36 o-21 e-9999 
+L-3m-20DF: e26 e0 o-36 o-21 o-3 
+L-3m-19DDr: e26 e0 o-36 o-21 e-9 
+L-3m-26DD: e26 e0 o-36 o-21 o16 
+R-15m-12DAr: o26 o-2 e-1 o1 e-8 
+R-15m-12DAr: e26 e-2 o-1 o1 o-8 
+L0m-26DF: o26 o-2 o32 o9 o6 
+L0m-26DB: o26 o-2 o32 o-10 e6 
+L0m-27DA: o26 o-2 o32 o13 o9999 
+L0m-28DAr: o26 o-2 o32 o13 o6 
+L0m-35DA: o26 o-2 o32 o13 o15 
+L0m-30DAr: o26 o-2 o32 o13 o20 
+L0m-34DAr: o26 o-2 o32 e-15 o-60 
+L-3m-7DE: e26 e-2 e33 o24 e-47 
+R-19m-17DA: o26 o7 o0 e-35 e-30 
+R-19m2DEr: o26 o7 o0 e-35 o-35 
+R-10m-12DF: o26 e-7 o9999 o-4 e-39 
+R-10m-18DD: o26 e-7 o9999 o11 e24 
+R-10m-18DCr: o26 e-7 e9999 e1 o-9999 
+R-10m-28DD: o26 e-7 e9999 e7 o24 
+R-10m-13DBr: o26 e-7 e9999 e17 o21 
+R-10m-16DAr: o26 e-7 e9999 e17 o23 
+R-10m-21DG: o26 e-7 e9999 e17 o31 
+R-10m-22DB: o26 e-7 e9999 e17 o35 
+R-10m-26DAr: o26 e-7 e9999 e25 o-18 
+R-10m-25DA: o26 e-7 e9999 e33 o1 
+R-10m-24DAr: o26 e-7 e9999 e33 e-15 
+R-10m-20DCr: o26 e-7 e9999 e34 e-3 
+R-10m-35DDr: o26 e-7 e9999 e48 o-32 
+L-8m-15DC: e26 e8 o-7 o-39 e3 
+L-7m4DAr: o26 o8 e-7 o-48 o28 
+R-23m-12DF: o26 o8 e-9 o10 o9999 
+R-17m-12DF: o26 o8 e-9 o29 e-30 
+R-14m-4DGr: e26 e8 o-25 e-10 e0 
+L-43m-12DD: o26 o12 e-21 e-3 e-1 
+L-30m-6DCr: o26 o12 o-58 o1 e-6 
+L-30m-28DCr: o26 o12 o-58 o1 e28 
+R-27m-6DAr: o31 o-8 e-9999 o-10 e-9999 
+R-27m3DDr: o31 o-8 e-9999 o-10 o37 
+R-27m-11DFr: o31 o-8 e-9999 o-10 o50 
+R-27m-9DG: o31 o-8 e-9999 o-10 o-37 
+R-27m-8DD: o31 o-8 e-9999 o-10 o-43 
+R-27m-9DA: o31 o-8 e-9999 o-10 e-56 
+R-27m-1DE: o31 o-8 o-10 o6 o9999 
+R-27m-13DC: o31 o-8 o-10 o-12 o-9999 
+R-27m-21DC: o31 o-8 o-10 o-12 o-40 
+R-27m-10DF: o31 o-8 o-10 o14 o9999 
+R-27m5DBr: o31 o-8 o-10 o20 e20 
+R-27m-5DA: o31 o-8 o-10 o24 o1 
+R-27m-13DDr: o31 o-8 o-10 o24 o8 
+R-27m10DCr: o31 o-8 o-10 o34 o9999 
+R-27m-4DD: o31 o-8 o-10 o34 o-9999 
+R-27m-16DCr: o31 o-8 o-10 o-1 o11 
+R-27m-22DF: o31 o-8 o-10 o-1 o16 
+R-27m-21DBr: o31 o-8 o-10 o-1 o24 
+L-18m2DCr: o31 o-8 e-13 o-17 e-3 
+L-18m-2DD: o31 o-8 e-13 e-44 o16 
+R-27m-6DAr: e31 e-8 o-10 o-9999 e-9999 
+R-27m-9DG: e31 e-8 o-10 o-9999 o-37 
+R-27m-8DD: e31 e-8 o-10 o-9999 o-43 
+R-27m-9DA: e31 e-8 o-10 o-9999 e-56 
+R-27m3DDr: e31 e-8 o-10 o-9999 o37 
+R-27m-11DFr: e31 e-8 o-10 o-9999 o50 
+R-27m-12DGr: e31 e-8 o-10 o-33 e1 
+R-27m6DF: e31 e-8 o-10 o-2 e-57 
+R-27m-12DF: e31 e-8 o-10 o-2 o-58 
+R-27m-8DGr: e31 e-8 o-10 o16 e-20 
+L-18m2DCr: e31 e-8 e-13 o-17 o-3 
+L-18m-7DE: e31 e-8 e-13 o-41 o-9 
+L-3m-15DDr: e31 o-13 e28 e19 e-9999 
+R-15m-37DG: e31 o-17 e2 e-11 o-11 
+R-16m-12DGr: e31 o-17 e-20 e8 e12 
+R-16m-3DBr: e31 o-17 e-20 e8 o-53 
+R-16m-17DFr: e31 o-17 e-20 e9 e-48 
+R-16m-1DC: e31 o-17 e-20 e22 e9999 
+R-16m-6DB: e31 o-17 e-20 e24 o-43 
+R-40m3DC: o31 e-17 o-28 o-32 o3 
+R-40m3DC: e31 o-17 e-28 o-32 e3 
+R-17m-2DD: e31 e-22 o25 e9999 e9999 
+R-2m-31DBr: e31 e-22 o26 o-54 e-16 
+L-7m6DD: o31 o-22 e39 e-37 o1 
+L-7m-10DF: o31 o-22 e39 e-37 o44 
+L-7m-11DA: o31 o-22 e39 e-37 o47 
+L-6m-17DBr: o31 o-22 e51 o-49 o9999 
+R-21m-8DCr: o31 o-22 e53 e-60 o9999 
+L0m3DBr: e31 o-25 o-9999 e-13 e24 
+R-15m-2DEr: o31 e-25 e47 o0 o47 
+L-2m-23DA: o31 e-27 o-2 o32 o9999 
+L-2m-24DAr: o31 e-27 o-2 o32 o6 
+L-2m-31DA: o31 e-27 o-2 o32 o15 
+L-2m-26DAr: o31 e-27 o-2 o32 o20 
+R-12m-29DA: o31 e-27 e-7 e9999 e58 
+R-12m-28DD: o31 e-27 e-7 e9999 e60 
+R-6m-20DEr: o31 o-28 o9999 o53 o9 
+R-6m-16DCr: o31 o-28 o9999 o53 o20 
+L-25m-28DF: e31 o-33 e16 e9999 e9999 
+L-25m-39DC: e31 o-33 e16 o8 e12 
+L-25m-32DB: e31 o-33 e16 o22 e20 
+L-25m-32DD: e31 o-33 e16 o49 e-3 
+R-15m-3DA: e31 e-34 o9999 o-5 e-2 
+R-15m6DEr: e31 e-34 o9999 o-5 e25 
+L-27m-10DAr: o31 o-44 o57 o32 o53 
+R-13m-6DAr: o31 o45 o39 o-56 e9999 
+R-13m-12DB: o31 o45 o39 o-56 e5 
+R-22m-5DE: o31 o45 e-41 o-22 o-8 
+L-15m-13DC: e31 e45 e43 e1 o-21 
+R-6m-12DF: o31 o-52 o53 e-4 o48 
+R-37m-18DCr: o31 e-53 e-14 e33 o17 
+L-11m-20DB: e33 e7 e9 e19 e9999 
+R-4m-18DEr: o33 o7 o17 o53 o9 
+R-4m-14DCr: o33 o7 o17 o53 o20 
+L-31m-5DC: e33 e14 e14 o-30 e-12 
+L-31m-5DE: e33 e14 e14 o-30 e-40 
+R-34m-5DC: o33 o14 o19 o37 e-31 
+R-31m-5DC: o33 o14 o28 e15 e-12 
+R-31m-36DAr: o33 o14 o28 e15 e20 
+L-29m-18DAr: o33 e-4 o-20 o7 e30 
+L-29m-24DGr: o33 e-4 o-20 o7 e53 
+L-29m5DC: o33 e-4 o-20 o7 e54 
+L-4m-11DFr: o33 o-5 o22 o5 o57 
+R-20m-34DGr: o33 e-12 o3 o-9999 e51 
+R-20m-33DE: o33 e-12 o3 e-9999 e23 
+R-20m-31DA: o33 e-12 o3 o19 o24 
+R-20m-40DAr: o33 e-12 o3 o23 e-58 
+R-20m-39DDr: o33 e-12 o3 o23 e-60 
+R-20m-51DDr: o33 e-12 o3 e52 o33 
+R-20m-51DA: o33 e-12 o3 e52 o45 
+R-28m-24DB: e33 o-12 e6 e-52 e-9999 
+R-21m-34DEr: e33 o-12 e6 o34 e9999 
+R-21m-46DAr: o33 e-12 o17 o47 e-58 
+R-21m-45DDr: o33 e-12 o17 o47 e-60 
+L-27m-21DBr: o33 e-12 e-19 o-14 e-1 
+L-27m-26DAr: o33 e-12 e-19 o-14 o13 
+R-38m-25DBr: e33 o-12 o-19 e45 e40 
+R-41m-29DFr: o33 e-12 e-23 o39 o9999 
+L-29m-16DD: o33 e-12 e-37 e-37 o1 
+L-29m-32DF: o33 e-12 e-37 e-37 o44 
+L-29m-33DA: o33 e-12 e-37 e-37 o47 
+R-18m-5DDr: o33 e-12 o45 o37 o1 
+R-18m-21DFr: o33 e-12 o45 o37 o-44 
+R-18m-22DAr: o33 e-12 o45 o37 e-47 
+L-21m-5DC: e33 e-13 e-6 o-44 e-20 
+L-21m-21DA: e33 e-13 e-6 o-44 e-34 
+R-4m-16DD: e33 e-13 e-8 o-19 e9999 
+R-15m2DF: e33 o25 e45 e0 o9999 
+R-15m-8DF: e33 o25 e45 e0 e0 
+L-20m-30DF: e33 o33 e9999 e5 e0 
+R-23m-8DAr: o33 e-34 e-27 o13 o-9999 
+R-23m-11DA: o33 e-34 e-27 o13 o0 
+R-19m-11DA: o33 e-34 o-34 o14 o-5 
+L-4m-32DF: e33 o-34 o-37 o-15 o-27 
+L-4m-19DC: e33 o-34 o-37 e25 e18 
+L-4m-29DG: e33 o-34 o-37 e25 o-10 
+L-19m-33DDr: e33 o45 e28 o-1 e23 
+L-19m-35DDr: e33 o45 e28 e-59 e5 
+L-8m-14DAr: o33 e45 o-32 o-1 o-18 
+L-19m-11DA: e33 o45 e37 e-2 e-17 
+L-29m-49DBr: e33 o45 e50 e12 e35 
+L-18m-12DCr: o33 e45 o-7 o-38 o13 
+R-18m-12DEr: o33 o-45 e-13 o-25 o13 
+R-26m-7DC: e33 o-46 o-7 e11 o-1 
+L-21m-8DB: o33 e-46 o-18 o-18 e37 
+L-2m-16DB: e33 o-46 e-26 o6 e59 
+R-17m-3DA: o33 e-46 e-29 o8 e30 
+L-21m-8DB: e33 o-46 o-18 o-18 o37 
+R-17m-3DA: e33 o-46 e-29 o8 o30 
+R0m-20DCr: o33 e-46 e42 e-48 o3 
+R-25m5DA: e33 e-49 e0 o-33 o9999 
+R-25m12DAr: e33 e-49 e0 o-33 o-1 
+R-25m13DDr: e33 e-49 e0 o-33 o0 
+R-25m2DAr: e33 e-49 e0 o-33 o7 
+R-25m5DA: o33 o-49 o0 o-33 e9999 
+R-25m12DAr: o33 o-49 o0 o-33 e-1 
+R-25m13DDr: o33 o-49 o0 o-33 e0 
+R-25m2DAr: o33 o-49 o0 o-33 e7 
+L-19m-27DC: o33 e-52 o25 o-9999 o-9999 
+L6m-22DD: e35 e-3 e-22 o-2 e24 
+L-6m4DB: e35 o-8 e9999 o0 e-20 
+L-6m1DBr: e35 o-8 e9999 o0 o-21 
+L-6m12DD: e35 o-8 e9999 o0 o-31 
+L-6m1DG: e35 o-8 e9999 o0 e-36 
+L-24m4DB: e35 o-8 o-39 e-32 e-20 
+L-24m1DBr: e35 o-8 o-39 e-32 o-21 
+L-24m12DD: e35 o-8 o-39 e-32 o-31 
+L-24m1DG: e35 o-8 o-39 e-32 e-36 
+L-3m-14DAr: o35 e-20 o2 o-45 e29 
+L-29m-7DC: e35 o-20 o3 e-26 o-7 
+L-12m-15DC: o35 e-20 e-44 o23 o6 
+L-12m-14DAr: o35 e-20 e-44 o23 e7 
+L-9m-1DA: e35 o-22 o-35 e-46 e-6 
+L-19m-20DCr: e35 e-25 e44 e-12 e-49 
+L-19m-20DCr: o35 o-25 o44 e-12 o-49 
+L-10m-3DA: o35 o-49 e-33 o56 e-9999 
+L-10m-9DBr: o35 o-49 e-33 o56 o-5 
+R-12m-10DCr: e35 e-49 o-37 o-1 e21 
+R-30m-44DEr: o35 o-49 o60 o53 o9 
+R-30m-40DCr: o35 o-49 o60 o53 o20 
+R-36m-57DBr: e35 e-49 o8 e-47 e9999 
+m-9EAr: e34 e57 
+R3m-11EEr: o53 o9 
+R3m-7ECr: o53 o20 
+m-5ED: e12 o-1 e13 
+m-5ECr: e12 e3 o1 
+m-17EF: e12 e3 e-25 
+m-12EC: e12 e3 e-35 
+m-7ECr: e23 e3 e-9999 
+m-4EFr: e23 e8 e47 
+m-6EC: e23 e-18 e9999 
+m1ED: e23 e-18 e-10 
+m-15EB: e23 e-22 e-22 
+m-13EB: e23 e-22 e-21 
+m-16EDr: e23 e-26 e18 
+m-11EEr: e23 e-26 o-47 
+m-29ECr: e23 e-26 o46 
+m3ED: e23 o-33 e-9999 
+L-10m3ED: o23 e-37 o1 
+L-10m-13EF: o23 e-37 o44 
+L-10m-14EA: o23 e-37 o47 
+m-17EAr: e23 e-42 e-6 
+m-9ECr: e23 o-53 e1 
+m5EAr: e29 e-9999 e-18 
+m-2EDr: e29 e0 o10 
+m7EEr: e29 e3 o-3 
+m15EF: e29 o-19 e-24 
+R9m15EF: o29 e-19 o26 
+m-8EDr: e29 e-32 o-27 
+m-5EB: e29 e-32 e-21 
+m-10EBr: e34 e3 e-18 
+m-3EB: e34 e4 e9999 
+m-12EDr: e34 e16 o-1 
+m-18EFr: e34 e16 e32 
+m-10EFr: e34 e16 e34 
+R-15m-3ED: o34 o16 o37 
+L-18m-18EFr: e34 e16 e39 
+m-23EEr: e34 e16 e41 
+m-8EA: e34 e33 e51 
+m-4EC: e34 e44 e-12 
+m-17EGr: e34 e46 e-9999 
+R-7m-20EG: e34 e55 o-9999 
+m-18EBr: e34 e55 o-6 
+m-15ECr: e34 e55 o-14 
+m-19ED: e34 e55 o-52 
+R3m-15EB: o53 o34 e11 
+R3m-16EA: o53 o36 o18 
+m-11ECr: e10 o9999 e3 e-10 
+m-9EF: e10 o9999 e29 e-2 
+m-23ECr: e10 e6 e1 o21 
+m-30EFr: e10 e6 e2 e42 
+m-16EA: e10 e6 e-16 e26 
+R-28m-8EE: o10 o6 o17 e-21 
+m-28EE: e10 e6 o-21 e10 
+m-31EB: e10 e6 e47 e32 
+m-13ECr: e10 e6 e48 o9999 
+m-7EAr: e10 e6 e53 e1 
+m-16EBr: e10 e6 e53 o-3 
+m-13EAr: e10 e6 e53 o-5 
+m-28EC: e10 e6 e53 o-15 
+m-20EBr: e10 e6 e56 e20 
+m-23EB: e10 e6 e56 e21 
+m-23EGr: e10 e6 e56 e36 
+m-20EA: e10 e6 e59 e-18 
+m-16EG: e10 e40 o-7 o-37 
+m-6EA: e10 e40 e15 o-17 
+R-16m-1ED: e10 e40 e15 e-36 
+m-19EF: e10 e40 e23 e-6 
+m-5EAr: e10 e40 e23 o-17 
+m-18EA: e10 e40 e35 o-6 
+m-11EB: e10 e41 e38 e4 
+m-20EC: e10 e41 e-11 e44 
+R-16m-26EBr: o10 e29 o6 o1 
+m-18EC: e10 o29 e-8 o-1 
+m-15EAr: e10 o29 o-15 o-1 
+m-23ED: e10 o29 o-15 e-8 
+m-15EF: e10 o29 o-23 e3 
+R-14m-4EE: e10 o31 e-24 e-7 
+m-26EFr: e12 e9999 e-12 o-17 
+R-9m-16EA: o12 o9999 o29 o30 
+R-9m-29EF: o12 o9999 o29 o35 
+m0EA: e12 e9999 e-40 e-9999 
+m-24EC: e12 e-9999 e3 e7 
+m-23EF: e12 e-9999 e-6 e-6 
+m-17EEr: e12 e-9999 e-1 e-9999 
+L-32m-17EEr: e12 e-9999 e-1 e-26 
+m5EB: e12 e1 e-15 e-9999 
+m0EFr: e12 e1 e-15 o-5 
+m0EC: e12 e1 e-15 e-1 
+m-1EAr: e12 e1 e-15 o3 
+R-21m5EB: e12 e1 o-32 e-9999 
+R-21m0EFr: e12 e1 o-32 o-5 
+R-21m0EC: e12 e1 o-32 e-1 
+R-21m-1EAr: e12 e1 o-32 o3 
+L-5m-6EA: e12 o-1 e39 e-51 
+m-24EE: e12 e3 e-51 e7 
+m-12EA: e12 e9 e0 e18 
+m-10EG: e12 e9 e25 e0 
+m-25EF: e12 e15 o9999 e0 
+m-26EBr: e12 e17 o-21 o43 
+m-35EF: e12 e18 e-28 e5 
+m-36EC: e12 e18 e-28 e18 
+m-35EAr: e12 e18 e-28 e25 
+m-33EF: e12 e23 e6 e-9999 
+m-11ED: e12 e24 e3 e9999 
+m-1EB: e12 e24 e-25 o39 
+m-3EAr: e12 e27 e30 e20 
+m-31ECr: e12 e35 o-1 o-11 
+m-21EB: e12 e35 e19 e9 
+m-29EF: e12 e35 e29 e35 
+m-29EB: e12 e39 e22 e20 
+m-29ED: e12 e39 e49 o-3 
+R5m-20EBr: e12 e51 o-31 o-5 
+R-12m-19EGr: e12 e51 e45 o-41 
+m3ECr: e12 e51 e45 e-60 
+R-3m-15EB: e12 e51 e47 o-22 
+m6EFr: e12 e51 o-30 e30 
+L-29m0EA: o12 o56 o-46 o-9999 
+m-16EE: e23 o-1 e2 e15 
+m-4EA: e23 e2 e39 o2 
+m-10EC: e23 e8 e19 e9999 
+m-3EF: e23 e8 e22 e-8 
+m3EEr: e23 e8 e29 e15 
+m-5EEr: e23 e8 e60 e9999 
+m-9EGr: e23 e-8 e37 e2 
+m-21ED: e23 e-8 e38 e13 
+m-38EE: e23 e-8 e38 o5 
+m-22EG: e23 e-8 e56 e0 
+R-16m4EDr: o23 o-18 o1 o32 
+m4EDr: e23 e-18 e1 e53 
+m-17EB: e23 e-18 e3 e16 
+m-8EBr: e23 e-18 o-13 e8 
+m-21ECr: e23 e-20 e-9999 e12 
+m-32EFr: e23 e-20 e-14 e52 
+m-38EA: e23 e-20 e22 o-35 
+m-23EAr: e23 e-20 e28 e-40 
+m-25EGr: e23 e-20 e34 e0 
+m-20EE: e23 e-22 o1 o24 
+R-20m-10EDr: o23 o-22 o-23 o0 
+m-10EDr: e23 e-22 e-23 o9 
+m-10EE: e23 e-22 o45 e-5 
+m-18EDr: e23 e-26 e1 e-24 
+m-22EC: e23 e-26 e9 e5 
+L-23m-36EA: o23 o-26 o-10 e-9999 
+L-23m-17EEr: o23 o-26 o-10 e-11 
+m-18EE: e23 e-26 e14 o36 
+m-15EGr: e23 e-26 e-16 e-34 
+R-29m-15EGr: o23 o-26 o-16 o-52 
+R-23m-21EEr: o23 o-26 o-18 o9999 
+R-23m-27ED: o23 o-26 o-18 e-27 
+m-21EEr: e23 e-26 o-21 e-48 
+m-12EG: e23 e-26 e-30 e-16 
+m-13EGr: e23 e-26 e-30 e36 
+m-32EE: e23 e-26 e37 e6 
+m-15ED: e23 o-33 e17 o-4 
+m-3ED: e23 o-33 o-35 e-8 
+m2EG: e23 o-33 e-38 e29 
+m-11EAr: e23 o-33 e42 e2 
+m-8EG: e23 o-33 e45 e-36 
+m-17ED: e23 o-33 e52 e-58 
+L-10m-4EDr: o23 e-37 o-6 e-31 
+L-10m-21EAr: o23 e-37 o13 e13 
+L-10m-3ED: o23 e-37 o25 o9999 
+L-10m-4EE: o23 e-37 o35 o9999 
+L-10m-12EDr: o23 e-37 o41 e-24 
+L-10m-18EBr: o23 e-37 o46 o-3 
+L-10m-16EA: o23 e-37 o46 o-23 
+L-10m-9EB: o23 e-37 o46 o-25 
+m5ECr: e23 e-38 e1 e-3 
+m-12EFr: e23 e-38 e-8 e-10 
+m-2EBr: e23 e-38 e21 e-44 
+m-8EC: e23 e-38 e21 o-55 
+m-17ECr: e23 e-40 e0 e-42 
+m-4EE: e23 e-40 e0 e-1 
+m14EG: e23 e-42 e1 e60 
+R9m-13ECr: o23 e-43 o19 o43 
+L-16m-11EAr: e23 o-47 e20 e-18 
+m-12EE: e23 o-47 e48 o24 
+m4EG: e29 e-9999 e-8 e-12 
+m13EB: e29 e-9999 e-8 e53 
+m-1EF: e29 e-9999 o-9 e48 
+m15ECr: e29 e-9999 e-22 e-9999 
+m10EBr: e29 e-9999 e-24 e43 
+L-10m2EFr: e29 e0 e9999 o9 
+m2EFr: e29 e0 e9999 o16 
+R-4m2EFr: e29 e0 e-9999 o0 
+R-13m-2EC: e29 e0 o8 o-57 
+m-14EFr: e29 e0 o14 e-20 
+m9EAr: e29 e3 e1 e9 
+m-8EE: e29 e3 e16 e-52 
+L-5m7EEr: e29 e3 e16 o0 
+L10m2EDr: o29 o3 o-16 o-52 
+L4m-9EAr: o29 o3 o43 o17 
+m-21EGr: e29 e4 e12 e31 
+m-14EC: e29 o-5 e1 e-6 
+R6m-15EAr: o29 e-5 o-32 o-9999 
+R6m-16EA: o29 e-5 o-32 o-6 
+R6m-23EAr: o29 e-5 o-32 e-15 
+R6m-18EA: o29 e-5 o-32 o-20 
+m-6EBr: e29 o-5 o0 e13 
+R-4m-9EB: o29 e-5 e0 e26 
+m8EC: e29 e6 e-18 e45 
+m-1EEr: e29 e6 e-30 e25 
+R-18m-21EAr: e29 e6 e-30 o36 
+m-13EF: e29 e6 e-32 o4 
+m-6EFr: e29 e6 e-32 o13 
+m-14EDr: e29 e6 e-36 e35 
+L-1m-8EA: e29 e6 e-50 o-46 
+R-6m-16EC: e29 e6 e-58 o-6 
+m-24EA: e29 e-6 e-46 e7 
+L1m-6EA: o29 o-6 e-49 o33 
+R1m15EF: o29 e-19 e-7 o-32 
+m7EGr: e29 o-21 o-15 e0 
+R7m-3ED: e29 o-21 e32 e-4 
+R-5m7EGr: o29 e-21 o-32 o0 
+m9EGr: e29 e-26 e9999 o-23 
+m8EA: e29 e-26 e9999 o-8 
+m6EDr: e29 e-26 o9999 o-9 
+m13EGr: e29 e-26 e-42 e0 
+m-7EGr: e29 e-26 o-30 e1 
+m-1ED: e29 e-32 o-29 o-31 
+R-16m-8EDr: e29 e-32 o-37 o0 
+m3EB: e29 e-32 o0 e-20 
+m0EBr: e29 e-32 o0 o-21 
+m11ED: e29 e-32 o0 o-31 
+m0EG: e29 e-32 o0 e-36 
+L10m11EB: o29 o-32 o-3 o4 
+L10m4EA: o29 o-32 o-3 e-15 
+m10EA: e29 e-32 o11 e9999 
+m7EAr: e29 e-32 o11 e4 
+m18EDr: e29 e-32 o11 e-10 
+m17EAr: e29 e-32 o11 o-11 
+m-2EC: e29 e-32 o-16 e-9999 
+L-17m-2EC: o29 o-32 e-16 o-56 
+m9EF: e29 e-32 e-33 e-9999 
+m8EFr: e29 o-33 e6 e27 
+m-16EC: e29 o-33 e30 e-54 
+m-1EGr: e29 e-34 e-20 e2 
+m11EF: e29 e-34 o-43 o27 
+m-8EFr: e34 e9999 e-28 e2 
+m-3EEr: e34 e1 e3 e-9999 
+L-18m-3EEr: e34 e1 e3 e-26 
+m-14EA: e34 e1 e9 o-5 
+m-20EDr: e34 e3 o9999 o1 
+m-9EEr: e34 e3 o-37 e-13 
+m-2EA: e34 e3 o0 e-25 
+m-5EF: e34 e3 o-18 e8 
+m-7EB: e34 o-3 e9999 e4 
+m-14EBr: e34 e15 e3 e20 
+m-6EDr: e34 e15 e3 e31 
+R-7m-2EC: e34 e15 e-4 e3 
+m-7ED: e34 e15 e16 o10 
+m-19ECr: e34 e15 e22 e17 
+m-39EAr: e34 e15 e49 e34 
+m-26EC: e34 e15 e49 e37 
+m-45EAr: e34 e15 e49 e50 
+m-10EA: e34 e19 o-11 o-13 
+m-22EDr: e34 e22 e9999 e-60 
+m1ECr: e34 e33 e57 o-3 
+m-25ECr: e34 e44 e0 o-7 
+m-12EBr: e34 e44 o-3 e2 
+L-5m-25ECr: o34 o44 o4 e-7 
+m-21EF: e34 e44 e-4 e22 
+m-33EAr: e34 e44 o-11 e-34 
+m-22EE: e34 e44 o-11 e-50 
+L-27m-9EGr: e34 e44 e15 o-9999 
+m-2EE: e34 e55 e-31 e9999 
+R-17m-2EE: e34 e55 e-31 e26 
+R-7m-24EC: e34 e55 o-58 o9999 
+R-4m-22EA: o34 o60 e45 e-44 
+m1EEr: e42 e10 o25 e9999 
+L-11m-6EA: e42 e15 o-15 o58 
+L-11m-5ED: e42 e15 o-15 o60 
+R-19m-23EB: e42 o-25 e-43 o48 
+L-20m-3ED: o42 o32 e-9 o-9999 
+L-20m-10EBr: o42 o32 e-9 o27 
+R3m-16EC: o52 e-1 e26 e36 
+R3m3EF: o53 o-2 e-19 o-23 
+R3m-22EDr: o53 o-4 e-15 o-9999 
+R3m-18EC: o53 o-4 e8 o-9999 
+R3m-25EEr: o53 o-4 e20 o37 
+R3m-6EA: o53 o15 o-9999 o-20 
+R3m-1EAr: o53 o15 o-9999 o-24 
+R3m-12EDr: o53 o34 o9 e-9999 
+R3m-17EGr: o53 o36 o8 o12 
+R3m-8EBr: o53 o36 o8 e-53 
+R3m-22EFr: o53 o36 o9 o-48 
+R3m-6EC: o53 o36 o22 o9999 
+R3m-11EB: o53 o36 o24 e-43 
+R3m-21ED: o53 o47 o32 o13 
+R3m-23EEr: o53 o58 e9999 o-30 
+R3m-40EG: o53 o58 e9999 o-38 
+R3m-23ED: o53 o58 o-1 o0 
+R3m-34EA: o53 o58 e3 e-21 
+R3m-34EC: o53 o58 o-9 e-49 
+R3m-21ECr: o53 o58 o-11 e-3 
+R3m-19EAr: o53 o58 e-12 o2 
+R3m-10EE: o53 o58 e-12 e-25 
+R3m-26EA: o53 o58 o-19 o-9999 
+R3m-24EA: o53 o58 e-32 o1 
+R3m-23EAr: o53 o58 e-32 e-15 
+R3m-20EDr: o53 o58 o-41 o9999 
+R3m-18EE: o53 o58 o-41 e-15 
+R3m-26EBr: o53 o58 o-41 o-20 
+R3m-26EC: o53 o58 o-41 e-35 
+R3m-17ED: o53 e1 o7 e24 
+R3m-25ECr: o53 e1 o33 o40 
+R3m-18EBr: o53 e4 o9999 o-22 
+R3m-9EGr: o53 e4 e9999 o0 
+R3m-10EBr: o53 e-4 e12 o49 
+R3m-12EG: o53 e9 e-6 o27 
+R3m-10EFr: o53 e12 o-9999 e-29 
+R3m-41EF: o53 e14 e20 o-24 
+R-1m-2EA: o60 e-35 o-16 e-29 
+m-25ED: e60 o-51 o-55 e32 
+L-23m-1EEr: e60 e-52 o9999 e45 
+m-16EFr: e60 e-60 e25 o27 
+L-4m-12EC: o8 e-7 e19 e17 o9999 
+L-4m-26EC: o8 e-7 e19 e52 e13 
+R-5m2EC: o8 e2 o9999 e21 o18 
+L-31m-8EE: e10 e6 e17 e4 e0 
+L-33m-29EGr: e10 e6 e48 o-1 e15 
+L-33m-29EGr: e10 e6 e48 o-3 e15 
+L-31m-3ED: o10 o37 o-36 o28 o10 
+L-30m-1EGr: o10 o37 o-54 o39 o-11 
+L-30m-5EEr: o10 o37 o-54 o57 o33 
+L-30m-15ED: o10 o37 o-54 o57 o35 
+L-30m-15ECr: o10 o37 o-54 o57 o37 
+L-32m-23ECr: o10 o37 e-16 o-20 o58 
+L-17m-24EG: o10 o37 e-16 e19 e-35 
+L-32m-23ECr: e10 e37 o-16 o-20 e58 
+R-32m-17EEr: e10 e37 e-17 o-30 e-9999 
+L-41m-11EAr: o10 o37 o-45 o0 o53 
+L-34m7EF: e10 e37 o-52 e-1 o48 
+L-2m-12EC: e10 e40 e26 e30 o-5 
+R-58m-71EAr: o10 o44 o26 o10 e-1 
+L-29m7EEr: o12 o9999 o-4 o-46 o8 
+L0m-25EF: e12 e9999 o-17 o9999 o-13 
+L0m-24EFr: e12 e9999 o-17 e11 o-33 
+R-9m-5EEr: o12 o9999 o29 o2 o55 
+R-9m-37ECr: o12 o9999 o29 o37 o9999 
+R-9m-27EF: o12 o9999 o29 o37 o-26 
+R-9m-25EEr: o12 o9999 o29 o43 e-23 
+R-9m-31EAr: o12 o9999 o29 o46 o-9999 
+R-9m-38EC: o12 o9999 o29 o46 o0 
+R-9m-34EA: o12 o9999 o29 o46 o-4 
+R-9m-23ED: o12 o9999 o29 o46 o10 
+R-9m-24EA: o12 o9999 o29 o46 o11 
+L-28m0EA: o12 o9999 o-32 e-1 o-9999 
+L-28m0EA: o12 o9999 o-32 e3 o-9999 
+R-9m-19EF: o12 o9999 o59 o9999 e12 
+L-6m-14EC: e12 o9999 e39 o13 e0 
+L-14m-28EE: e12 e1 e9999 e-53 e-9 
+L-14m-24EC: e12 e1 e9999 e-53 o-20 
+R-27m-24EA: o12 o1 o-23 o37 o-43 
+R-12m-4EE: e12 e1 e-23 o14 e-28 
+R-27m-24EA: e12 e1 e-23 o37 e-43 
+R2m-21EF: e12 e1 e-29 o-21 e-9999 
+R-21m1ECr: e12 e1 o-32 e0 e6 
+R-21m-2EA: e12 e1 o-32 e0 e7 
+R-21m5EEr: e12 e1 o-32 e1 e-9999 
+R-21m8EFr: e12 e1 o-32 e2 o-3 
+R-21m1EAr: e12 e1 o-32 e-2 e9999 
+R-21m-4EA: e12 e1 o-32 e-4 e-9999 
+R-21m-13EAr: e12 e1 o-32 e-4 e37 
+R-21m-1EB: e12 e1 o-32 e5 o-7 
+R-21m-10EC: e12 e1 o-32 e-18 e-9999 
+R-21m-6EBr: e12 e1 o-32 e-18 o-1 
+R-21m-13ECr: e12 e1 o-32 o-19 o21 
+R-21m0EBr: e12 e1 o-32 o0 e7 
+R-21m-8EBr: e12 e1 o-32 o2 e20 
+R-21m-11EB: e12 e1 o-32 o2 e21 
+R-21m0EDr: e12 e1 o-32 o2 e31 
+R-21m-11EGr: e12 e1 o-32 o2 e36 
+L-14m5EB: e12 e1 e-53 o-5 e-9999 
+L-14m0EFr: e12 e1 e-53 o-5 o-5 
+L-14m0EC: e12 e1 e-53 o-5 e-1 
+L-14m-1EAr: e12 e1 e-53 o-5 o3 
+L-14m-13EEr: o12 e-1 o28 o2 o-9999 
+R-19m-24EC: o12 e-1 o55 o-40 e46 
+R-9m0EA: e12 e3 e-51 e54 e-9999 
+L-22m-10EG: o12 o9 o22 o32 o0 
+R-16m-16EG: o12 o9 o27 e-45 o0 
+R-26m-3EAr: e12 e18 e13 e14 e20 
+R-25m-3EAr: e12 e18 e13 e23 e20 
+R-21m-7EB: e12 e20 e51 e-9999 e-9999 
+R-4m-32EC: e12 e32 o-21 o-51 e-9999 
+R-4m-32EC: o12 o32 e-21 o-51 o-9999 
+L-14m10EA: e12 e34 e-27 e-11 e-18 
+R-7m10EA: e12 e34 e-27 o-28 e13 
+L-18m-8EBr: o12 o40 o9999 o8 o-9999 
+R0m-9ED: e12 e41 o9999 o33 e9999 
+R-26m-10EDr: e12 e44 e13 e11 e-15 
+R-35m-1EGr: e12 e51 o9999 o-27 e-38 
+R-19m-21ED: e12 e51 o5 e13 o-60 
+R-6m-11ED: o12 o51 o-11 o-10 o7 
+R-6m-19EAr: o12 o51 o-11 o-10 o22 
+L1m-4EC: e12 e53 e13 e11 o-1 
+R-28m0EA: e12 e56 o-37 e0 o15 
+L-29m-3EB: o12 o56 o-46 o0 e-1 
+L-29m1EEr: o12 o56 o-46 e-7 e-9999 
+L-29m4EA: o12 o56 o-46 o-8 o18 
+L-18m0EA: o12 o56 o-50 e-23 o-9999 
+L-36m0EA: o12 o56 o-58 o-3 o8 
+L-22m-9ED: e12 e-3 e46 e-37 e1 
+L-22m-25EF: e12 e-3 e46 e-37 e44 
+L-22m-26EA: e12 e-3 e46 e-37 e47 
+L-7m-1EEr: e18 e-9999 o-9999 o-5 o-9999 
+R-21m7EAr: o21 e-1 e13 o34 e-9 
+R-5m2EDr: o23 e-1 o0 o21 o-9999 
+R-8m-16EE: o23 e-1 o2 o9 o-9999 
+R-14m1EGr: o23 o2 o29 e-8 e-43 
+L-12m6EFr: o23 o2 o39 e-37 o43 
+R-13m-20EC: o23 o2 o55 o-40 e22 
+R-28m0EA: e23 e8 e24 e-38 e9999 
+R-28m-3EAr: e23 e8 e24 e-38 e0 
+R-16m-15EF: e23 e8 e55 e-9999 e-9999 
+R-16m11ECr: e23 e8 e55 o-43 o-27 
+R-7m2EBr: o23 o8 o56 o18 e-9999 
+L-13m-11EB: o23 o8 o56 e37 e6 
+L0m-18EE: o23 o-14 o7 o10 e7 
+L15m0EC: e23 e-18 e-9999 e-16 e-2 
+R-21m-10EG: o23 o-18 o1 e-3 o9999 
+L-4m-21ECr: o23 o-18 o1 o26 o2 
+L1m-20EA: o23 o-18 e-5 o32 o9999 
+L1m-21EAr: o23 o-18 e-5 o32 o6 
+L1m-28EA: o23 o-18 e-5 o32 o15 
+L1m-23EAr: o23 o-18 e-5 o32 o20 
+R-4m-5EGr: e23 e-18 o-9 e-8 e-9999 
+R-4m-26EDr: e23 e-18 o-9 e-16 e36 
+R-28m-8EA: e23 e-22 o6 e26 e-9999 
+L-13m-25EF: e23 e-22 o21 e-51 e9999 
+R-20m-16EE: o23 e-23 o26 e-35 o43 
+L-32m-30EDr: o23 o-26 o-6 e1 o-8 
+L-40m-7EB: o23 o-26 o-6 e2 e-1 
+R-19m-23EF: e23 e-26 e8 e-2 e0 
+R-19m-25ECr: e23 e-26 e8 e9 e-22 
+R-19m-11ECr: e23 e-26 e8 e10 e3 
+R-19m-18EFr: e23 e-26 e8 e35 e24 
+R-19m4EG: e23 e-26 e8 o-57 e-9999 
+R-19m1EF: e23 e-26 e8 o-57 e0 
+R-19m-24EDr: e23 e-26 e8 o-22 e9999 
+L-22m-18EDr: o23 o-26 o9 e-1 o-24 
+L-22m-18EDr: e23 e-26 e9 e-1 e-24 
+L-23m-31EAr: o23 o-26 o-10 o0 e-1 
+L-23m-11EAr: o23 o-26 o-10 o0 e-49 
+L-23m-23ECr: o23 o-26 o-10 e-1 o-40 
+L-23m-18EC: o23 o-26 o-10 o4 o3 
+L-23m-5EB: o23 o-26 o-10 o-6 e-45 
+L-23m-17EGr: o23 o-26 o-10 e-7 o23 
+L-23m-26EFr: o23 o-26 o-10 e5 e9999 
+L-23m-30EDr: o23 o-26 o-10 e5 e43 
+L-23m-16EFr: o23 o-26 o-10 e13 o0 
+L-23m-32EFr: o23 o-26 o-10 o-15 e1 
+L-23m-29ECr: o23 o-26 o-10 o-15 o-29 
+L-23m-35EAr: o23 o-26 o-10 o-17 o9999 
+L-23m-28EDr: o23 o-26 o-10 e-22 e0 
+L-23m-40EDr: o23 o-26 o-10 e-26 e-9999 
+L-23m-39ED: o23 o-26 o-10 e-28 e9999 
+R-3m-9EB: e23 e-26 e11 e-20 e-60 
+R-33m-18EE: o23 o-26 o14 e26 e-9999 
+R-23m-22EC: o23 o-26 o-18 e-25 o3 
+R-12m-9ED: e23 e-26 e-30 e-6 e-9999 
+R-18m-37ECr: e23 e-26 e31 o5 e-9999 
+R-18m-18EBr: e23 e-26 e31 o5 e12 
+R-18m-23ED: e23 e-26 e31 o5 e28 
+L-6m-27EGr: e23 e-26 e51 e9999 e23 
+L-6m-37ECr: e23 e-26 e51 e9999 e28 
+R-33m-18EE: e23 e-26 o14 e26 o-9999 
+L-1m-26EE: e23 o-33 e18 e-26 e-14 
+L-16m-5EB: e23 o-33 e30 o-4 e-20 
+L-16m-8EBr: e23 o-33 e30 o-4 o-21 
+L-16m3ED: e23 o-33 e30 o-4 o-31 
+L-16m-8EG: e23 o-33 e30 o-4 e-36 
+L-15m-5EB: e23 o-33 e32 o-15 e-20 
+L-15m-8EBr: e23 o-33 e32 o-15 o-21 
+L-15m3ED: e23 o-33 e32 o-15 o-31 
+L-15m-8EG: e23 o-33 e32 o-15 e-36 
+R-24m-5EB: e23 o-33 e38 o-7 e-20 
+R-24m-8EBr: e23 o-33 e38 o-7 o-21 
+R-24m3ED: e23 o-33 e38 o-7 o-31 
+R-24m-8EG: e23 o-33 e38 o-7 e-36 
+L-26m-22EBr: o23 e-33 o47 o9 o11 
+L-26m-29EGr: o23 e-33 o47 o9 e46 
+L-26m-35EAr: o23 e-33 o47 o26 o18 
+L-26m-38EBr: o23 e-33 o47 o29 e-1 
+L-26m-21ECr: o23 e-33 o47 o-7 e-35 
+L-26m-20EE: o23 e-33 o47 e-8 e-31 
+L-26m-14EDr: o23 e-33 o47 e-8 e-50 
+L-26m-21ED: o23 e-33 o47 e14 e-52 
+R-8m-5EB: e23 o-33 e50 o51 e-20 
+R-8m-8EBr: e23 o-33 e50 o51 o-21 
+R-8m3ED: e23 o-33 e50 o51 o-31 
+R-8m-8EG: e23 o-33 e50 o51 e-36 
+L-10m13ED: o23 e-37 o-9999 e-3 e-10 
+L-10m2EG: o23 e-37 o10 o9 o9999 
+L-10m1ECr: o23 e-37 o10 o14 o-3 
+L-10m-15EF: o23 e-37 o10 o25 o5 
+L-10m-16EC: o23 e-37 o10 o25 o18 
+L-10m-15EAr: o23 e-37 o10 o25 o25 
+L-10m-9ECr: o23 e-37 o10 o37 o9999 
+L-10m-6EC: o23 e-37 o10 o37 o30 
+L-10m-3EEr: o23 e-37 o10 o37 o38 
+L-10m-8EA: o23 e-37 o10 o37 o42 
+L-10m-8EC: o23 e-37 o10 o37 o49 
+L-10m-12EBr: o23 e-37 o-10 o1 o44 
+L-10m-11EGr: o23 e-37 o-10 o1 e29 
+L-10m-5EEr: o23 e-37 o-10 o4 e51 
+L-10m-7EGr: o23 e-37 o-10 e0 o0 
+L-10m-21ECr: o23 e-37 o13 o-10 o-56 
+L-10m-29EGr: o23 e-37 o13 e-15 o-4 
+L-10m-23ECr: o23 e-37 o13 o23 e2 
+L-10m-14EE: o23 e-37 o13 o-32 e11 
+L-10m-26EG: o23 e-37 o13 o-1 e-49 
+L-10m-36EFr: o23 e-37 o13 o-11 e-42 
+L-10m-17EF: o23 e-37 o13 e14 o-2 
+L-10m-26EC: o23 e-37 o13 e14 o-18 
+L-10m-20EBr: o23 e-37 o13 e24 o32 
+L-10m-27ECr: o23 e-37 o13 e29 o-40 
+L-10m2EA: o23 e-37 o13 e34 e-25 
+L-10m-1EB: o23 e-37 o13 e34 o47 
+L-10m-2EFr: o23 e-37 o13 e34 e20 
+L-10m-17EGr: o23 e-37 o13 e50 o-4 
+L-10m8EC: o23 e-37 o16 e-15 o20 
+L-10m-14EBr: o23 e-37 o16 e18 o-9999 
+L-10m-19EAr: o23 e-37 e-19 o9999 o55 
+L-10m-3EB: o23 e-37 e-19 e-29 o0 
+L-10m-9ED: o23 e-37 e-19 e-29 o47 
+L-10m-7EEr: o23 e-37 e-19 o-29 o1 
+L-10m3EAr: o23 e-37 e-19 e33 o8 
+L-10m-12EC: o23 e-37 e-29 o-12 o14 
+L-10m-19ED: o23 e-37 e-29 e18 o-9999 
+L-10m-14EC: o23 e-37 o32 e-49 e43 
+L-10m-13EEr: o23 e-37 o35 e-9999 e-34 
+L-10m-7EAr: o23 e-37 o35 e-1 o3 
+L-10m-6EFr: o23 e-37 o35 e-1 o-5 
+L-10m-15ECr: o23 e-37 o35 e-19 o-36 
+L-10m-24EDr: o23 e-37 o35 o28 o38 
+L-10m-11EB: o23 e-37 o35 e0 o8 
+L-10m-7EB: o23 e-37 o35 o-1 e-30 
+L-10m-9EEr: o23 e-37 e-35 e8 e-36 
+L-10m-23EGr: o23 e-37 o-36 o9999 o-4 
+L-10m-26EFr: o23 e-37 o-36 o-4 o0 
+L-10m-17EB: o23 e-37 o40 o9999 o43 
+L-10m-13EAr: o23 e-37 o40 o0 o25 
+L-10m-28EBr: o23 e-37 o41 e-16 o2 
+L-10m-14EG: o23 e-37 o41 e-16 o6 
+L-10m-20EC: o23 e-37 o41 e-16 o-16 
+L-10m-14EDr: o23 e-37 o41 e-16 o34 
+L-10m-11ECr: o23 e-37 o41 o-37 o-9999 
+L-10m-8EDr: o23 e-37 o41 o-51 o25 
+L-10m7EB: o23 e-37 o41 e-56 e0 
+L-10m-1EAr: o23 e-37 o45 o4 o0 
+L-10m-12EE: o23 e-37 o45 o-6 o9999 
+L-10m-3EF: o23 e-37 o45 e-9 o3 
+L-10m2EDr: o23 e-37 o45 e-9 o43 
+L-10m-10EG: o23 e-37 o45 e-9 e6 
+L-10m0EDr: o23 e-37 o45 e-15 o-9999 
+L-10m6EA: o23 e-37 o45 o34 o18 
+L-10m8EA: o23 e-37 o46 o11 o9999 
+L-10m5EAr: o23 e-37 o46 o11 o0 
+L-10m10EG: o23 e-37 o46 e2 e-15 
+L-10m6EC: o23 e-37 o46 e2 o-40 
+L-10m-1EF: o23 e-37 o46 e-14 o-5 
+L-10m-20EDr: o23 e-37 o48 o-9999 o4 
+L-10m-2EBr: o23 e-37 o48 o-38 o-12 
+R-7m-6EC: e23 e-38 e6 e-27 e7 
+R-7m-13EGr: e23 e-38 e6 e-27 e-16 
+R-7m-18EBr: e23 e-38 e6 e-27 e20 
+R-7m-11ECr: e23 e-38 e6 e-27 e-22 
+R-7m-12EBr: e23 e-38 e6 e-27 e32 
+L-16m5ECr: o23 o-40 e2 e-54 e-35 
+L-31m5EAr: o23 o-40 e-6 e-27 e5 
+L-31m10EG: o23 o-40 e-6 e-27 e-8 
+L3m14EG: e23 e-42 e1 e56 e-30 
+L-7m-8EFr: e23 e-42 o-2 o-1 e2 
+L-7m-10EDr: e23 e-42 o-2 e4 e0 
+L-7m-17ECr: e23 e-42 o-2 e-10 e45 
+L-7m-29EF: e23 e-42 o-2 e-12 e4 
+L-7m-16EBr: e23 e-42 o-2 e-12 o-15 
+L-7m-7EAr: e23 e-42 o-2 e-11 e-6 
+R9m-3ED: o23 e-43 o-9999 e-25 e-3 
+R9m-14EDr: o23 e-43 o-9999 o-50 o-32 
+R9m-14EC: o23 e-43 e9999 e23 o20 
+R9m4EE: o23 e-43 e9999 e31 o0 
+R9m-21ECr: o23 e-43 e9999 e46 o-20 
+R9m-16EE: o23 e-43 e9999 e46 e-49 
+R9m-11EEr: o23 e-43 o1 o0 e-3 
+R9m-13EGr: o23 e-43 e-9 o29 o5 
+R9m5EGr: o23 e-43 e-9 e50 o3 
+R9m-5EB: o23 e-43 e-9 e50 e2 
+R9m-17EAr: o23 e-43 o-16 o7 o9999 
+R9m-7EEr: o23 e-43 e-17 o43 o-9 
+R9m-3EGr: o23 e-43 o-18 e22 o-42 
+R9m-3EEr: o23 e-43 o19 e6 o9999 
+R9m-1ECr: o23 e-43 o-26 o0 e0 
+R9m-17EGr: o23 e-43 e-29 e-21 o-9999 
+R9m-22EE: o23 e-43 o-36 e-29 o-9999 
+R9m-21EB: o23 e-43 e0 e21 o-28 
+R9m-22EBr: o23 e-43 e-2 e-31 o51 
+R9m-31ECr: o23 e-43 e-2 e-57 o-28 
+R9m-19EB: o23 e-43 o-3 e-7 o12 
+L-15m-37EGr: e23 o-47 e-2 o11 e11 
+L-16m-12EG: e23 o-47 e20 e-8 e-12 
+L-16m-3EB: e23 o-47 e20 e-8 e53 
+L-16m-17EF: e23 o-47 e20 o-9 e48 
+L-16m-1ECr: e23 o-47 e20 e-22 e-9999 
+L-16m-6EBr: e23 o-47 e20 e-24 e43 
+L-40m3ECr: o23 e-47 o28 o32 e-3 
+L-40m3ECr: e23 o-47 e28 o32 o-3 
+L3m-4EC: e29 e-9999 o-7 o-39 e3 
+L4m15EAr: o29 o-9999 e-7 o-48 o28 
+R-12m-1EF: o29 o-9999 e-9 o10 o9999 
+R-6m-1EF: o29 o-9999 e-9 o29 e-30 
+R-3m7EGr: e29 e-9999 o-25 e-10 e0 
+R-8m-6EE: o29 o0 o9999 e4 e53 
+R5m7EEr: e29 e0 e3 e-16 e55 
+L-8m2EFr: e29 e0 e4 e-9999 e9 
+L-8m5EAr: e29 e0 e4 o37 e-9999 
+L-8m2EA: e29 e0 e4 o37 e0 
+R-20m-24EG: o29 o0 o-11 o3 o9999 
+L4m-13ED: o29 o3 o4 e25 e-50 
+R-22m7EEr: o29 o3 o7 e-25 e9999 
+R8m10EC: o29 o3 e-9 e-1 o0 
+L-19m7EEr: o29 o3 o-24 o33 e-42 
+R-5m7EEr: e29 e3 o-35 e-8 e0 
+L-15m7EEr: e29 e3 o-35 o0 e-9999 
+L3m18EBr: o29 o3 o40 e2 o28 
+L4m-3EF: o29 o3 o43 o14 e-6 
+L4m-14EE: o29 o3 o43 e29 e9999 
+R8m2EDr: e29 e3 e50 e-40 o-9999 
+L-9m-6EA: o29 e-5 o1 e-1 e8 
+L-9m-6EA: e29 o-5 e1 e-1 o8 
+R6m-20EFr: o29 e-5 o-32 e-9 o-6 
+R6m-20EBr: o29 e-5 o-32 o10 e-6 
+R6m-21EAr: o29 e-5 o-32 e-13 o-9999 
+R6m-22EA: o29 e-5 o-32 e-13 o-6 
+R6m-29EAr: o29 e-5 o-32 e-13 e-15 
+R6m-24EA: o29 e-5 o-32 e-13 o-20 
+R6m-28EA: o29 e-5 o-32 o15 o60 
+R3m-1EEr: e29 o-5 o-33 o-24 o47 
+R-14m-10EFr: e29 e6 e-36 e38 e-9999 
+R-14m-10EFr: o29 o6 o-36 e37 o-9999 
+L-10m-5ECr: o29 o6 o-46 o-57 o-2 
+L-1m-5ED: e29 e6 e-50 o-56 e9999 
+L-1m-17EAr: e29 e6 e-50 e-59 o-1 
+L-1m-25ED: e29 e6 e-50 e-59 e-8 
+R-10m-8EFr: e29 e-6 o-49 e23 e2 
+R-10m11EF: e29 e-6 o-49 e23 e11 
+R-10m-12EA: e29 e-6 o-49 e23 o14 
+R-15m-8EBr: o29 o-6 o-50 o-12 o-42 
+R-15m-14EA: o29 o-6 o-50 o-12 o-48 
+R0m15EEr: e29 o-9 e9999 o-3 e18 
+L9m0EDr: o29 e-15 e-18 o9999 e-6 
+R-1m15EF: o29 e-19 o3 o21 o-26 
+R3m15EF: e29 o-19 e-4 e-10 e9999 
+R9m15EF: e29 o-19 e5 e-10 e9999 
+R9m-4EFr: o29 e-19 o18 e16 o4 
+R9m9EB: o29 e-19 o18 o-23 e-3 
+R9m12EC: o29 e-19 o31 o-9999 o-8 
+R9m-4EC: o29 e-19 o31 e-9999 e-28 
+R9m15ED: o29 e-19 o31 e-9999 e60 
+R9m3EEr: o29 e-19 o31 o0 e-45 
+R9m-2EA: o29 e-19 o31 e0 o-27 
+R9m13EAr: o29 e-19 o43 e0 o-4 
+R9m12EA: o29 e-19 o46 o1 o-1 
+R-7m-33EB: o29 e-21 o30 o-9999 o32 
+R-5m4EFr: o29 e-21 o-32 o2 o0 
+R-5m3EB: o29 e-21 o-32 o2 o35 
+R-5m13ECr: o29 e-21 o-32 o28 o-58 
+R-5m9EEr: o29 e-21 o-32 o29 e-5 
+R-5m8EA: o29 e-21 o-32 o31 o4 
+R-5m3EAr: o29 e-21 o-32 o31 e-11 
+L-20m-6EG: e29 o-23 o-1 o35 e0 
+L-20m-6EG: o29 e-23 e-1 e36 o0 
+L-20m-6EG: e29 o-23 o-1 o37 e0 
+L-20m-6EG: o29 e-23 e-1 e38 o0 
+R-12m16EA: o29 o-26 o9999 e-35 o1 
+R11m-15ECr: o29 o-26 o-40 e-19 o-9999 
+R11m-2EE: o29 o-26 o-40 o-24 o-56 
+R11m-9EEr: o29 o-26 o-40 o33 o1 
+R11m4EE: o29 o-26 o-40 o45 e-59 
+L-9m12EA: e29 e-26 e-11 e19 e-3 
+L7m15EEr: e29 e-26 e-19 e-14 o-9999 
+L-2m7EGr: e29 e-26 o-24 o-18 e-9999 
+R-21m4EG: o29 e-29 o-28 o-32 o-12 
+R-21m13EB: o29 e-29 o-28 o-32 o53 
+R-15m4EG: e29 o-29 e-34 o-31 e-12 
+R-15m13EB: e29 o-29 e-34 o-31 e53 
+R-11m7EGr: e29 o-29 o-35 e31 e0 
+R5m15ECr: o29 o-32 o2 e-13 o0 
+L-23m-11ED: e29 e-32 e-36 o-58 e-9999 
+L-23m-20EA: e29 e-32 e-36 o-58 e43 
+L-23m-16EG: e29 e-32 e-36 o-58 e57 
+L-23m-11EAr: e29 e-32 e-36 o-58 e-3 
+L-23m-20EE: e29 e-32 e-36 o-58 o9 
+L-8m-5ED: o29 o-32 e-37 o12 o42 
+L-13m-4EFr: e29 e-32 o-41 o-5 e18 
+R-7m-9ED: e29 e-32 o-41 e-10 o-9999 
+L10m4EDr: o29 o-32 o-3 o0 o-9999 
+L-15m-2EBr: e29 e-34 e-10 e-31 o-9 
+R-9m4EG: e29 e-34 e-30 o4 e-12 
+R-9m13EB: e29 e-34 e-30 o4 e53 
+R-8m4EG: e29 e-34 e-32 e15 e-12 
+R-8m13EB: e29 e-34 e-32 e15 e53 
+L-17m4EG: e29 e-34 e-38 e7 e-12 
+L-17m13EB: e29 e-34 e-38 e7 e53 
+L-1m4EG: e29 e-34 e-50 e-51 e-12 
+L-1m13EB: e29 e-34 e-50 e-51 e53 
+L-4m-14EBr: e29 o-35 o-29 o-22 e-20 
+L-4m7EGr: e29 o-35 o-29 o-30 e-9999 
+L-4m-14EFr: e29 o-35 o-29 e-39 o49 
+R-15m7EGr: e29 o-35 o-59 o-57 e0 
+L-11m4EG: e29 e-36 e9999 e-29 e-12 
+L-11m13EB: e29 e-36 e9999 e-29 e53 
+R-12m7EGr: e29 e-36 e23 o53 e0 
+R-16m1EB: e34 e1 e-14 e3 e-9999 
+R-16m-16EC: e34 e1 e-14 e3 e-38 
+R-16m-2EE: e34 e1 e-14 e3 o-55 
+R-16m0EBr: e34 e1 e-14 e-20 o46 
+R-16m-3EB: e34 e1 e-14 o-33 o48 
+R-16m3ECr: e34 e1 e-14 e-1 e9999 
+R-16m-16EBr: e34 e1 e-14 e-1 e52 
+R-16m3EAr: e34 e1 e-14 o2 e-19 
+R-16m-10EFr: e34 e1 e-14 o32 e-2 
+L-22m-6EE: o34 o3 o-9999 o1 o-20 
+R-19m-1ECr: o34 o3 e9999 e15 o-30 
+L-9m-12EA: e34 e3 o-37 e-59 o-23 
+L-9m-10EBr: e34 e3 o-37 e-59 o-27 
+L-9m-13ED: e34 e3 o-37 e-59 e-56 
+L-22m-9ED: o34 o3 e-51 o-9999 o2 
+L-22m-14EDr: o34 o3 e-51 o-9999 o-12 
+R-12m-4EDr: o34 o3 e0 o-17 o4 
+R-12m-2EA: o34 o3 e0 o-17 o-6 
+R-12m-6EBr: o34 o3 e0 o-17 o12 
+R-12m5ECr: o34 o3 e0 o-17 o16 
+R-15m-24EG: o34 o3 e0 o-43 o0 
+L-19m-34EC: e34 e3 e-9 o53 o46 
+R-26m-12EA: o34 o6 e-5 o9999 e-9 
+R-26m-12EE: o34 o6 e-5 e24 o22 
+R-23m-4EDr: o34 o6 o6 o32 e17 
+R-23m-8EE: o34 o6 o6 o39 e-29 
+R-23m-3EGr: o34 o6 o6 o39 o-44 
+R-9m3EB: e34 e9 e1 o-50 e-4 
+R-7m-8EA: e34 e15 e-4 o9999 e9999 
+R-7m-9EAr: e34 e15 e-4 o9999 e7 
+R-7m0EC: e34 e15 e-4 o9999 o-15 
+R-7m-11EAr: e34 e15 e-4 o9999 e19 
+R-7m1EAr: e34 e15 e-4 o9999 e-26 
+R-7m3ECr: e34 e15 e-4 o9999 e-28 
+R-7m-6EA: e34 e15 e-4 o9999 o-31 
+R-7m-3ECr: e34 e15 e-4 o-9999 e-9999 
+R-7m4EDr: e34 e15 e-4 o-9999 e10 
+R-7m24EDr: e34 e15 e-4 e-6 e32 
+R-7m-2EFr: e34 e15 e-4 o-13 e2 
+R-7m-2EDr: e34 e15 e-4 o-13 e6 
+R-7m-8EC: e34 e15 e-4 o-13 o-35 
+R-7m-9EEr: e34 e15 e-4 e-20 e-16 
+R-7m-3ED: e34 e15 e-4 e23 o-1 
+R-7m-11EEr: e34 e15 e-4 o-25 e1 
+R-7m-15ECr: e34 e15 e-4 o-25 o27 
+R-7m-4EC: e34 e15 e-4 o1 e-9999 
+R-7m-13EF: e34 e15 e-4 o1 e17 
+L-18m0EFr: e34 e15 e13 e49 e-2 
+R-14m1EB: o34 o15 o20 o37 o4 
+R-14m-19EB: o34 o15 o20 o37 e-5 
+R-14m-13ECr: o34 o15 o20 o37 o-8 
+R-14m-3ECr: o34 o15 o20 o37 e1 
+R-14m-11EAr: o34 o15 o20 o37 e-4 
+R-34m-26EBr: e34 e15 e49 e-22 e25 
+L-21m-11EAr: o34 o16 o-9999 o40 o9999 
+R-26m-16EE: o34 o16 o25 e-9 o-9999 
+R-26m-12EDr: o34 o16 o25 e-9 o15 
+R-26m-22EC: o34 o16 o25 e-9 e-17 
+R-26m-13EEr: o34 o16 o25 e-9 o23 
+R-26m-19ECr: o34 o16 o25 e-9 e-23 
+R-26m-24EC: o34 o16 o25 e-9 e-25 
+R-38m-13ECr: e34 e16 e25 e58 e9 
+R-38m-12EDr: e34 e16 e25 e58 e31 
+L-29m-8EFr: o34 o16 o47 o-10 e-9999 
+L-29m-11EAr: o34 o16 o47 o-10 o-24 
+L-12m-8EFr: e34 e16 e47 e45 o-29 
+R-5m-24EE: e34 e16 e54 e9999 o-3 
+L17m9EAr: o34 o18 o38 o27 e51 
+R15m1EEr: e34 e18 e53 o53 o9 
+R-23m-8EA: e34 e22 e8 o-32 e1 
+R-23m-16EDr: e34 e22 e8 o-32 e8 
+R-6m-14EA: e34 e33 e19 e9999 e18 
+R-6m-21ED: e34 e33 e19 e0 o-10 
+R-6m-12EE: e34 e33 e19 o-3 e3 
+R-6m-4EFr: e34 e33 e19 e19 e24 
+R-6m-27ED: e34 e33 e19 e32 e27 
+R-6m-24EBr: e34 e33 e19 e32 o21 
+R-4m-8EBr: o34 o33 o59 e-23 o7 
+R-14m-11ED: o34 o44 e-3 o-46 e18 
+L-5m-22EC: o34 o44 o4 e-3 o3 
+L-5m-20EFr: o34 o44 o4 o-6 o21 
+L-5m-17EAr: o34 o44 o4 o-6 e27 
+L-5m-30EA: o34 o44 o4 o-12 e58 
+L-5m-29ED: o34 o44 o4 o-12 e60 
+L-5m-15ECr: o34 o44 o4 e-13 o-30 
+L-27m-12EFr: e34 e44 e15 o-1 e0 
+R-11m-20EBr: e34 e55 o2 o-32 o15 
+L-23m-23EB: o34 o55 e-30 o30 o9999 
+L-32m-15EEr: o34 o55 e-30 o52 o11 
+R-22m-6EDr: e34 e55 o-30 o0 e-8 
+R-22m-11ECr: e34 e55 o-30 o0 o-16 
+R-4m-30EBr: o34 o60 e45 e0 o17 
+R-4m-6EFr: o34 o60 e45 o-33 e-19 
+R-4m-19EAr: o34 o60 e45 e-54 o-43 
+R-4m-13ECr: o34 o60 e45 o-57 o5 
+L-11m3ECr: e42 e15 o-15 o1 e-9999 
+L-11m-7ED: e42 e15 o-15 o7 e24 
+L-11m8EBr: e42 e15 o-15 o17 e21 
+L-11m5EAr: e42 e15 o-15 o17 e23 
+L-11m0EG: e42 e15 o-15 o17 e31 
+L-11m-1EB: e42 e15 o-15 o17 e35 
+L-11m-5EAr: e42 e15 o-15 o25 e-18 
+L-11m-4EA: e42 e15 o-15 o33 e1 
+L-11m-3EAr: e42 e15 o-15 o33 o-15 
+L-11m1ECr: e42 e15 o-15 o34 o-3 
+L-11m-14EDr: e42 e15 o-15 o48 e-32 
+R-23m13EEr: o42 o15 o24 e9 o2 
+L-26m-35EB: o42 o21 e0 o-10 e-23 
+L-26m-28EBr: o42 o21 e0 o-10 e18 
+L-26m-30EE: o42 o21 e0 o-10 e-60 
+L-26m-25EF: o42 o21 e0 o-27 o-9999 
+L-26m-37EB: o42 o21 e0 o-33 o0 
+L-26m-24EC: o42 o21 e0 o-37 o3 
+R-27m-13ED: e42 e23 e8 e43 e0 
+L-26m1EEr: o42 o23 e-37 o41 o11 
+R-21m-13ECr: o42 o23 o-38 o-12 o53 
+R-28m1EEr: e42 e29 e5 o-55 o17 
+L-18m1EEr: e42 e29 e14 o-31 o9999 
+L-18m-2EDr: e42 e29 e14 o-31 e5 
+L-18m-2EBr: e42 e29 e14 o-31 e6 
+L-18m-10EE: e42 e29 e14 o-31 e-46 
+L-18m-16EG: e42 e29 e14 o-31 e-31 
+L-31m1EEr: e42 e29 e14 o-26 e9999 
+L-31m-2EFr: e42 e29 e14 o-26 e-9999 
+L-20m-13ECr: o42 o32 e-7 o-52 o-22 
+L-20m-12EC: o42 o32 o13 o9999 e-21 
+L-20m1EEr: o42 o32 o24 o9999 o9999 
+L-20m20EBr: o42 o32 o24 e-34 o-2 
+L-20m-7ED: o42 o32 o-26 e0 e24 
+L-20m3ECr: o42 o32 o27 o-39 e9999 
+R-23m1EEr: e42 e34 e55 o-50 e9999 
+L-27m-7EB: e42 e42 e15 o-15 o-29 
+L-27m5EF: e42 e42 e15 o-15 o-44 
+L-36m-16EC: o42 o42 o32 o-46 e-15 
+R-2m-3EF: o42 o45 o-35 o-9999 o-9999 
+R-13m-11ECr: o42 o53 e-4 o9 o-18 
+R-13m-3ED: o42 o53 e5 e-9 o-9999 
+R-13m-10EBr: o42 o53 e5 e-9 o27 
+R-13m1EEr: o42 o53 e16 o27 e52 
+R-33m-4EBr: e50 e25 o-5 e9999 o-25 
+R-33m-21ECr: e50 e25 o-5 e-10 e-22 
+R3m-23EB: o52 o-9999 o-2 o16 o-13 
+R3m-33ECr: o52 o0 e25 o39 e21 
+R3m-10EA: o52 e-1 o-6 o52 e-4 
+R3m-13EF: o52 o-4 o-17 e6 o29 
+R3m-8EA: o52 e-9 e-11 o19 o25 
+R3m-9ECr: o52 e-9 o34 o22 o0 
+R3m-11ED: o52 e-9 o34 o31 e-9999 
+R3m-11EAr: o52 e-9 o34 o31 o8 
+R3m-16EBr: o52 e-17 e12 e9999 o8 
+R3m14EDr: o52 e-19 e-6 e34 o49 
+R3m-23EF: o52 o-22 e15 e-23 o-9999 
+R3m-13EB: o52 e-10 o9999 o50 o50 
+R3m-20EG: o52 o-19 o43 e-57 o-14 
+R3m-31EF: o52 o-19 o43 o-11 o-32 
+R3m-20EC: o52 o-19 o43 o-11 e-47 
+R3m-7EGr: o52 o-19 o43 e-40 o12 
+R3m-29EB: o52 o-19 o43 e-40 o26 
+R3m-25EB: o53 o2 o-9999 e-17 e35 
+R3m-14EDr: o53 o2 o-17 o7 o-24 
+R3m-15EEr: o53 o2 e-28 e18 o9999 
+R3m-5ED: o53 o2 e-32 o6 o-24 
+R3m-15ECr: o53 o2 o-33 o9999 o15 
+R3m-5EEr: o53 o-2 o3 o-12 o19 
+R3m-21EAr: o53 o-2 o3 o43 o17 
+R3m-15EF: o53 o-2 o3 e18 o0 
+R3m-28EDr: o53 o-2 o3 e18 e50 
+R3m-24EG: o53 o-2 o3 o-27 e60 
+R3m-7ED: o53 o-2 o3 e-36 e-31 
+R3m-5EGr: o53 o-2 o4 o9999 o0 
+R3m5EB: o53 o-2 o4 o9999 o17 
+R3m-8EFr: o53 o-2 o4 o0 o0 
+R3m5EF: o53 o-2 e-5 e-25 e35 
+R3m-25ED: o53 o-2 o6 e-43 o-25 
+R3m-29EEr: o53 o-2 e-21 e-42 o9999 
+R3m-8EG: o53 o-2 e-29 o-35 o-12 
+R3m1EB: o53 o-2 e-29 o-35 o53 
+R3m0EBr: o53 o-2 o-32 e-42 o0 
+R3m0EC: o53 o-2 o-32 e-42 o13 
+R3m-3EB: o53 o-2 o-32 o-45 o9999 
+R3m3EB: o53 o-2 o-34 e12 o45 
+R3m8EA: o53 o-2 o-5 e-36 o9999 
+R3m5EAr: o53 o-2 o-5 e-36 o0 
+R3m-13EAr: o53 o-2 o-27 e-11 e-2 
+R3m-30EBr: o53 o-2 o-27 o-32 o-48 
+R3m-5ECr: o53 o-2 o-27 o48 e-28 
+R3m-3EEr: o53 o-2 e-32 o3 o-9999 
+R3m-14EG: o53 o-2 e-32 e-3 o6 
+R3m-2EA: o53 o-2 e-32 o25 o1 
+R3m-16EFr: o53 o-2 e-32 o25 e-27 
+R3m-40EC: o53 o-2 e-32 o-43 e-21 
+R3m-38EFr: o53 o-2 e-32 o-43 o30 
+R3m-32EE: o53 o-2 e-32 o-43 o-34 
+R3m-26EDr: o53 o-2 e-32 o-43 e-28 
+R3m-29EF: o53 o-4 e9999 o11 o0 
+R3m-30EC: o53 o-4 e9999 o13 o17 
+R3m-10EC: o53 o-4 e9999 o14 o19 
+R3m-7EEr: o53 o-4 e9999 o14 e-19 
+R3m-28EC: o53 o-4 e9999 o58 o54 
+R3m-3EF: o53 o-4 e-5 o-3 o9999 
+R3m-14EC: o53 o-4 o6 o-8 o18 
+R3m-19ED: o53 o-4 o6 o-12 o9999 
+R3m3EEr: o53 o-4 o29 o-10 o38 
+R3m-7EF: o53 o-4 o41 e58 e-1 
+R3m-17ECr: o53 o-4 o43 o15 o5 
+R3m1EAr: o53 o-4 e0 o14 e-23 
+R3m-29ED: o53 o-4 e0 o51 o37 
+R3m-4EE: o53 o-4 e-2 o50 o9999 
+R3m-11ECr: o53 o-4 e-2 e38 o-3 
+R3m-27EF: o53 o-4 e8 o16 o-9999 
+R3m-26EFr: o53 o-4 e8 o22 o-6 
+R3m-3ED: o53 o-4 e10 o1 o0 
+R3m-12EC: o53 o-4 e10 e-33 e7 
+R3m-6EBr: o53 o-4 e10 e0 o13 
+R3m-25EF: o53 o-4 e19 e-39 o10 
+R3m-39ECr: o53 o-4 e20 o25 o1 
+R3m-21EF: o53 o-4 e20 o33 o22 
+R3m-27ED: o53 o5 o56 o27 e18 
+R3m-19EEr: o53 o8 o-9999 o-22 e20 
+R3m-18EFr: o53 o-16 o-8 o-41 o6 
+R3m-24EBr: o53 o-16 o-15 o-46 e37 
+R3m-9EAr: o53 o17 o35 e-1 o-50 
+R3m-33ED: o53 o17 o35 o40 o24 
+R3m3EAr: o53 o17 e21 o-26 o-6 
+R3m-3EAr: o53 e-17 o0 e0 o22 
+R3m-14EBr: o53 o24 o53 e12 o41 
+R3m0EA: o53 o33 o-47 o26 o17 
+R3m-35EAr: o53 o34 o-9999 e30 e9 
+R3m-19ECr: o53 o34 o-9999 e32 o0 
+R3m-27EB: o53 o34 o-9999 e39 e-21 
+R3m-49EB: o53 o34 o-9999 e39 o-38 
+R3m-32EA: o53 o34 e-9999 e-27 o7 
+R3m-43ECr: o53 o34 e-9999 e-27 o15 
+R3m-38EG: o53 o34 e-9999 e-27 o18 
+R3m-39EAr: o53 o34 e-9999 e-27 o22 
+R3m-27EEr: o53 o34 e-9999 e-45 e-53 
+R3m-26EG: o53 o34 e-9999 e39 e-35 
+R3m-12EA: o53 o34 e-9999 e39 e47 
+R3m-20EE: o53 o34 e1 o-9999 e25 
+R3m-25EAr: o53 o34 e1 e-9999 e-5 
+R3m-29ECr: o53 o34 e1 e17 e9 
+R3m-46EC: o53 o34 e1 e25 o22 
+R3m-39EB: o53 o34 e1 e38 e10 
+R3m-52EFr: o53 o34 e9 o9 o46 
+R3m-53EGr: o53 o34 e9 o-16 o-4 
+R3m-26EE: o53 o34 e25 e-15 o0 
+R3m-22EA: o53 o34 e32 e-9999 o-32 
+R3m-22EG: o53 o36 o-9999 o20 o-2 
+R3m-35ED: o53 o36 o7 o9999 o-2 
+R3m-15EAr: o53 o36 o7 o57 o-9999 
+R3m-18EA: o53 o36 o7 o57 o0 
+R3m-17EEr: o53 o36 o8 o9 o6 
+R3m-19EGr: o53 o36 o8 o10 o9999 
+R3m-28EFr: o53 o36 o8 e-33 e-1 
+R3m-9EEr: o53 o36 o8 e-45 o38 
+R3m-24EFr: o53 o36 o9 e-5 o16 
+R3m-34EDr: o53 o36 o24 o9999 e-15 
+R3m-16EE: o53 o38 o8 e-5 o45 
+R3m-36EA: o53 o58 o-9999 o-9999 o-20 
+R3m-31EAr: o53 o58 o-9999 o-9999 o-24 
+R3m-24EDr: o53 o58 e9999 o-20 o-9999 
+R3m-24EC: o53 o58 o-6 o0 e-20 
+R3m-22EC: o53 o58 o-6 o0 e-32 
+R3m-21EEr: o53 o58 o-6 o0 o-37 
+R3m-30EG: o53 o58 e-13 o0 e-25 
+R3m-17EB: o53 o58 e3 e-9999 o-20 
+R3m-20EBr: o53 o58 e3 e-9999 e-21 
+R3m-9ED: o53 o58 e3 e-9999 e-31 
+R3m-24EE: o53 o58 e3 e2 o11 
+R3m-31ED: o53 o58 e3 o-25 o24 
+R3m-10EG: o53 o58 e3 o-29 e-57 
+R3m-32EDr: o53 o58 e6 o-22 o-9999 
+R3m-31EB: o53 o58 o-9 o-44 e58 
+R3m-36EDr: o53 o58 o-9 o-48 o7 
+R3m-42EE: o53 o58 o-9 e-57 e6 
+R3m-38EBr: o53 o58 e-10 o20 o9999 
+R3m-41EB: o53 o58 e-10 o21 o-9999 
+R3m-30EDr: o53 o58 e-10 o31 o9999 
+R3m-39EGr: o53 o58 e-10 o35 o0 
+R3m-41EGr: o53 o58 e-10 o36 o9999 
+R3m-44EFr: o53 o58 e-10 o36 o0 
+R3m-15ED: o53 o58 o-11 e9999 o-10 
+R3m-27EAr: o53 o58 o-11 e-9999 o-9999 
+R3m-28EA: o53 o58 o-11 e-9999 e-7 
+R3m-30EA: o53 o58 o-11 e-9999 e-19 
+R3m5ED: o53 o58 o-11 o6 o-32 
+R3m-27ECr: o53 o58 o-11 o13 o35 
+R3m-28EE: o53 o58 o-11 o20 o16 
+R3m-30EE: o53 o58 o-11 o25 e-1 
+R3m-23ECr: o53 o58 o-11 o-1 o9999 
+R3m-32EFr: o53 o58 o-11 o-1 e-17 
+R3m-34EFr: o53 o58 e-12 o26 o2 
+R3m-37EB: o53 o58 e-12 o26 o22 
+R3m-2EG: o53 o58 e13 o-56 e-10 
+R3m7EAr: o53 o58 e13 o-56 e29 
+R3m-37ED: o53 o58 o-19 o23 o-9999 
+R3m-36EBr: o53 o58 o-19 o35 e-4 
+R3m-44EC: o53 o58 o-19 o36 o22 
+R3m-33EAr: o53 o58 e-32 e-1 e-1 
+R3m-42EG: o53 o58 e-32 e-1 o9 
+R3m-47EGr: o53 o58 e-32 e-5 o21 
+R3m-35EF: o53 o58 e-32 o16 o6 
+R3m-8EE: o53 o58 o-35 o12 e9999 
+R3m-5EB: o53 o58 o-35 e-13 o0 
+R3m-4EBr: o53 o58 o-35 e31 e-45 
+R3m-39EF: o53 o58 e-36 o9999 o0 
+R3m-17EAr: o53 o58 o-41 o-8 o0 
+R3m-18EG: o53 o58 o-41 e-21 o-9999 
+R3m-44EG: o53 o58 o-55 o-6 e-17 
+R3m-31EGr: o53 o58 o-55 o25 o49 
+R3m-38EC: o53 o58 o-55 o25 e29 
+R3m-42EBr: o53 o58 o-55 o25 e34 
+R3m-5EF: o53 e1 o12 o0 e34 
+R3m-1EF: o53 e1 o12 e53 o-31 
+R3m-11EF: o53 e1 o12 e53 e-44 
+R3m-19EB: o53 e1 o17 o20 e-13 
+R3m-12EFr: o53 e1 o20 o19 e-1 
+R3m-16EG: o53 e1 o27 o-9999 e-27 
+R3m-9EB: o53 e1 o39 o9999 o41 
+R3m-21EB: o53 e2 e-41 o33 e-11 
+R3m-18EDr: o53 e4 o4 o31 o9999 
+R3m-27EGr: o53 e4 o4 o35 o0 
+R3m-29EGr: o53 e4 o4 o36 o9999 
+R3m-31ECr: o53 e4 o-13 o56 o-5 
+R3m-28EBr: o53 e4 e23 o1 o0 
+R3m-22EBr: o53 e4 e33 o48 o7 
+R3m2EC: o53 e-4 e6 o2 o-4 
+R3m-10EDr: o53 e-4 e6 e-5 o9999 
+R3m-7EAr: o53 e-4 e12 o47 o-18 
+R3m-40EFr: o53 e-4 e24 e42 e-16 
+R3m-8EC: o53 e-4 e26 o9999 e-15 
+R3m-52EA: o53 e-4 e35 e-9999 e-25 
+R3m-35ECr: o53 e-4 e39 o-37 o0 
+R3m-41EAr: o53 e-4 e43 o-16 e-3 
+R3m-13ED: o53 e-4 e43 o29 o1 
+R3m-16EDr: o53 e-4 e43 o29 e-1 
+R3m-29EAr: o53 e14 o-9999 o19 o50 
+R3m-40EBr: o53 e14 o1 o23 o-54 
+R3m-1ED: o53 e14 o-8 o25 o10 
+R3m-8EDr: o53 e14 o-8 e-25 o31 
+R3m-3ECr: o53 e14 o-5 o9 o-9999 
+R3m-42EFr: o53 e14 e-6 e23 o0 
+R3m-25EGr: o53 e14 e20 o-17 o25 
+R3m-20EA: o53 e14 e20 o-17 o53 
+R3m-35EB: o53 e14 o-25 e-7 o-24 
+R-9m8EC: e60 o-5 o-25 e37 o-1 
+L-7m10EE: o60 e-5 o34 e12 o11 
+R-12m17EAr: e60 o-7 e9999 o-31 e9999 
+L13m-12EBr: o60 e-11 o11 o5 o12 
+L-18m-11EEr: o60 e-19 e0 o51 o-24 
+R-9m12EA: e60 o-21 e27 e-6 o-5 
+L0m-20EC: o60 e-31 o12 e4 e36 
+L-24m-11EB: e60 e-50 e23 o-1 e-38 
+L-24m-8EE: e60 e-50 e23 e-12 e48 
+L-24m-49ECr: e60 e-50 e23 o5 o30 
+R-15m-11EEr: e60 e-52 o57 e5 o-45 
+R-15m-17ED: e60 e-52 o57 o-7 e-26 
+R-15m-39EF: e60 e-52 o57 e11 e42 
+R-15m-29ED: e60 e-52 o57 e23 e-9999 
+R-15m-28EBr: e60 e-52 o57 e35 o-4 
+R-15m-21ED: e60 e-52 o57 e35 e-17 
+R-15m-36EC: e60 e-52 o57 e36 e22 
+m-17FDr: e10 o-7 
+m-25FA: e10 e-22 
+m1FE: e33 e24 
+m5FE: e9999 o-11 e-8 
+m-1FA: e9999 o-11 o-13 
+m1FC: e9999 o-29 o-53 
+m-21FFr: e5 e-20 e9999 
+m3FA: e5 e-28 e58 
+m4FD: e5 e-30 e9999 
+m6FD: e5 e-36 e29 
+m-10FB: e5 e-38 o5 
+m-14FD: e10 e9999 e32 
+m-24FGr: e10 o-19 e-4 
+R-28m-13FDr: e10 o-29 e9999 
+m-24FCr: e10 e-32 o-41 
+m-23FG: e10 o-39 e10 
+m-6FB: e11 e9999 e-20 
+m-9FBr: e11 e9999 o-21 
+m2FD: e11 e9999 o-31 
+m-9FG: e11 e9999 e-36 
+m-9FC: e11 e-9999 e15 
+m-14FGr: e12 e9999 e-10 
+m4FB: e12 o-6 e9999 
+m16FCr: e13 e15 e-3 
+L-27m16FCr: o13 o32 o-3 
+L-27m16FCr: e13 o32 e-3 
+m4FGr: e15 e-14 e0 
+m5FBr: e22 o-9999 e0 
+m3FG: e31 e0 e-9999 
+m0FF: e31 e0 e0 
+m6FF: e31 o-13 o-17 
+m-13FDr: e31 o-13 e-44 
+m-6FGr: e33 o-9999 o-9999 
+m-2FCr: e33 e-20 e9999 
+m-1FC: e33 e-20 o-13 
+m-4FGr: e33 e-24 o35 
+m10FD: e33 e-24 o47 
+m1FA: e33 e-24 o51 
+m-17FBr: e33 e25 o-45 
+m-7FA: e9999 o-5 e9999 o58 
+m-6FD: e9999 o-5 e9999 o60 
+m0FEr: e9999 o-5 e-6 o-15 
+m-4FCr: e9999 o-5 e-6 e38 
+m-5FBr: e9999 o-11 e-9999 e-6 
+m-9FA: e9999 o-11 e-9999 e16 
+m-4FAr: e9999 o-11 e-9999 e21 
+m8FEr: e9999 o-11 e-2 o-9999 
+L-7m8FEr: o9999 e-11 o-2 e-26 
+m12FEr: e9999 o-11 o-5 e-9999 
+L-3m12FEr: e9999 o-11 o-5 e-26 
+m-7FDr: e9999 o-11 e19 o-27 
+m-31FC: e9999 e-28 e-9999 e22 
+m-46FCr: e9999 e-28 e17 o37 
+m-25FFr: e9999 e-28 e29 e0 
+m-11FBr: e9999 e-28 e58 e39 
+R-9m-16FAr: o9999 e-29 o3 e16 
+m0FCr: e9999 o-29 e8 o-1 
+m-14FCr: e9999 o-29 e11 e18 
+m-16FEr: e9999 o-29 e11 e38 
+m-16FAr: e9999 o-29 o-19 e20 
+m-11FA: e9999 o-29 o-19 e24 
+m-21FC: e9999 o-29 o-27 o7 
+m-12FF: e9999 o-29 e-5 o-3 
+L-18m0FB: o4 o3 o-14 o-9999 
+m-21FDr: e5 o-1 e23 e0 
+m-7FG: e5 e-4 o-3 e21 
+R-5m-5FFr: e5 e-18 o-19 e18 
+m-7FBr: e5 e-28 e9999 e20 
+m1FDr: e5 e-28 e9999 e31 
+m-10FGr: e5 e-28 e9999 e36 
+m-3FA: e5 e-30 e1 e12 
+m9FA: e5 e-30 o-1 e9999 
+m6FAr: e5 e-30 o-1 e-6 
+m-9FFr: e5 e-30 e5 e23 
+m-10FCr: e5 e-30 e11 e53 
+m-5FDr: e5 e-30 e21 e54 
+m-8FAr: e5 e-30 e22 e23 
+m-13FBr: e5 e-30 e24 e9999 
+m-4FB: e5 e-36 e9999 e32 
+m-14FB: e5 e-38 e0 e9999 
+m-20FAr: e5 e-38 e2 e2 
+m-11FE: e5 e-38 e2 o-25 
+m-14FEr: e5 e-38 o-2 e-2 
+m-34FCr: e5 e-38 o12 e-46 
+m-18FAr: e5 e-38 o19 e-58 
+m-23FFr: e5 e-38 o31 e32 
+m-28FEr: e5 e-38 o31 o53 
+m-19FA: e5 e-38 o40 e-6 
+L-14m-12FEr: o5 o-38 e40 e-13 
+m-6FF: e5 e-38 o43 e-32 
+m-16FB: e5 e-38 o43 e-46 
+m-1FG: e5 e-38 o51 o53 
+m-30FAr: e5 e-38 o52 e11 
+R-6m-19FC: o5 e-39 o4 o22 
+R-6m0FF: o5 e-39 o14 o-8 
+R-6m-7FDr: o5 e-39 o14 e20 
+R-6m-10FGr: o5 e-39 o16 o-9999 
+m0FD: e5 o-57 e0 e-9999 
+m-12FCr: e5 o-57 e3 e11 
+m-18FF: e5 o-57 e3 e16 
+m-9FDr: e5 o-57 e20 e-32 
+m26FCr: e6 e9999 e-38 e55 
+m8FCr: e8 e0 e34 o-51 
+L-6m4FCr: o8 o0 o48 o-12 
+m-30FEr: e10 e9999 e-4 e34 
+m-3FG: e10 e9999 e49 e-6 
+m-25FC: e10 o-5 o-5 e22 
+L-21m-26FEr: e10 e-6 o-5 e22 
+m-28FCr: e10 e-8 e9999 e-22 
+m-43FC: e10 e-8 o-17 e-37 
+m-22FF: e10 e-8 o-29 e0 
+m-8FB: e10 e-8 e-58 o-39 
+m-26FF: e10 o-21 e4 e47 
+m-15FA: e10 o-21 o-39 e0 
+m-10FF: e10 e-26 e-40 o-37 
+m-12FEr: e10 o-29 e19 o-9999 
+m-15FC: e10 o-29 e22 e25 
+m-17FA: e10 o-29 e25 e23 
+m4FEr: e10 o-29 e25 e38 
+m-10FD: e10 o-29 e37 e-15 
+m-13FA: e10 o-29 e55 e6 
+m-14FAr: e10 o-29 e55 e19 
+m-28FF: e10 o-31 e0 e0 
+m-6FCr: e10 o-31 e-10 o-30 
+L-37m-25FDr: o10 o-32 o-9999 o-8 
+m-34FB: e10 e-32 e-9999 e-12 
+m-35FC: e10 e-32 o-31 e23 
+m-25FE: e10 e-32 o2 e-9999 
+m-17FG: e10 e-32 e-5 o-22 
+m-30FGr: e10 e-32 o-18 e9999 
+m-33FFr: e10 e-32 o-18 e0 
+m-33FBr: e10 e-32 o-18 e23 
+m-20FGr: e10 e-32 o24 e13 
+m-13FFr: e10 e-36 e5 e9999 
+L-25m-39FDr: o10 o-36 o23 o-4 
+L-33m-29FA: e10 e-36 e23 o-15 
+R-25m-30FB: o10 o-36 o23 o-28 
+m-22FAr: e10 e-36 e23 o-31 
+m-26FD: e10 e-36 e-28 e-14 
+m-25FG: e10 e-36 o-33 e-9999 
+L-20m1FBr: o10 e-37 o-32 e32 
+R-14m-14FAr: o10 e-37 o35 o-9999 
+R-14m-15FC: o10 e-37 o35 e-9 
+R-14m-12FAr: o10 e-37 o35 o-16 
+R-14m-17FA: o10 e-37 o35 o-20 
+m-38FB: e10 o-37 e44 e-20 
+m-41FBr: e10 o-37 e44 o-21 
+m-30FD: e10 o-37 e44 o-31 
+m-41FG: e10 o-37 e44 e-36 
+m-28FD: e10 o-37 o6 e-9999 
+m-17FC: e10 o-37 o-18 o-17 
+m-31FDr: e10 o-37 e-29 e43 
+m-19FC: e10 o-39 e2 e-9999 
+m-17FE: e10 o-39 e18 o36 
+m-30FCr: e10 o-39 e21 e3 
+m-32FD: e10 e-42 e23 e-9999 
+L-4m-17FFr: e11 e9999 o-13 e-4 
+m-10FEr: e11 e9999 e33 e1 
+m3FE: e11 e9999 e45 o-55 
+m-24FD: e11 o-33 e25 e1 
+m-23FE: e11 o-33 e28 o-27 
+m-19FDr: e11 o-33 e28 o-52 
+m-22FEr: e11 o-33 e35 e45 
+R-18m4FB: e12 e8 e27 e9999 
+R-9m4FB: o12 o-11 o53 o9999 
+R-17m4FB: o12 e-24 o8 e-12 
+m-1FBr: e12 o-24 e24 o-13 
+m-8FCr: e12 o-24 e25 e-16 
+R-1m4FB: o12 e-24 o25 e-53 
+m-7FC: e12 o-24 o0 e-36 
+m-2FF: e12 o-24 o-2 o-40 
