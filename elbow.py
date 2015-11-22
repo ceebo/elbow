@@ -92,9 +92,9 @@ def test(cells, lane):
 
     if delta == (0, 0):
         spaceships = []
-#    elif delta == (-5, 5):
-#        spaceships = GLIDERS_SW
-#        a, b, c, d, e = 1, 1, -1, 0, 0
+    elif delta == (-5, 5):
+        spaceships = GLIDERS_SW
+        a, b, c, d, e = 1, 1, -1, 0, 0
     elif delta == (5, 5):
         spaceships = GLIDERS_SE
         a, b, c, d, e = 1, -1, 1, 0, 1
@@ -153,7 +153,9 @@ def show_it(recipe, lane, move, elbow_type, start_elbow):
     if lane is not None:
         direction = lane[1] % 8
         phase = lane[1] // 8
-        if direction == 1:
+        if direction == 0:
+            res = "Rev%d" % lane[0]
+        elif direction == 1:
             res = "R%d" % (lane[0] - start_lane)
         elif direction == 2:
             res = "L%d" % (lane[0] - start_lane)
@@ -165,7 +167,7 @@ def show_it(recipe, lane, move, elbow_type, start_elbow):
     if move is None:
         res += "k"
     else:
-        res += "m%d%s%s" % (move - start_lane, start_type, elbow_type)
+        res += "m%d%s%s" % (move - start_lane, str(start_type), elbow_type)
 
     g.putcells(make_text(res, "mono"), offset, -80)
 
