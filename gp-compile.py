@@ -4,6 +4,8 @@ import sys
 
 RECIPE_FILE = "outfile_4_1.txt"
 
+USE_0HD = False
+
 recipes = defaultdict(list)
 recipe_strings = {}
 
@@ -120,6 +122,10 @@ def reflect(elbow):
     return elbow[0] if elbow[-1] == "r" else elbow + "r"
 
 def reflect_recipe(s):
+
+    if USE_0HD:
+        return s
+
     res = ""
     tokens = to_tokens(s)
     for i in range(len(tokens)):
