@@ -119,7 +119,7 @@ def test(cells, lane):
                     for i, j in ss:
                         pairs.remove((x0+i, y0+j))
                     found = True
-                    lane = a * x0 + b * y0 + c + d * (x0+y0)%2, e + 8 * phase
+                    lane = a * x0 + b * y0 + c + d * (x0+y0)%2, e, phase % 2
                     break
             if found:
                 break
@@ -151,8 +151,8 @@ def show_it(recipe, lane, move, elbow_type, start_elbow):
     res = ""
     phase = 0
     if lane is not None:
-        direction = lane[1] % 8
-        phase = lane[1] // 8
+        direction = lane[1]
+        phase = lane[2]
         if direction == 0:
             res = "Rev%d" % lane[0]
         elif direction == 1:
@@ -203,11 +203,15 @@ def store(cells, lane, recipe, period, depth, next_pats):
 
     old_depth = -1
 
-    canon = canonical(cells) + "%" + str(lane)
+    # ignore parity of output glider when canonicalising.
+    # assumes we can change parity by delaying by one tick.
+    lane_str = "_None" if lane is None else "_%d_%d" % lane[:2]
+
+    canon = canonical(cells) + lane_str
     if canon in depths:
         old_depth = depths[canon]
     elif period == 2:
-        canon1 = canonical(g.evolve(cells, 1)) + "%" + str(lane)
+        canon1 = canonical(g.evolve(cells, 1)) + lane_str
         if canon1 in depths:
             old_depth = depths[canon1]
 

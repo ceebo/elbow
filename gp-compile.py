@@ -2,7 +2,7 @@ from collections import defaultdict
 import heapq
 import sys
 
-RECIPE_FILE = "outfile_3_1.txt"
+RECIPE_FILE = "outfile_4_1.txt"
 
 recipes = defaultdict(list)
 recipe_strings = {}
@@ -156,6 +156,9 @@ def read_recipes(filename):
         for s in f:
             
             tokens = to_tokens(s)
+
+            if tokens[0] == "Rev":
+                continue
 
             i = 0
             side = lane = None

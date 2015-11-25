@@ -121,6 +121,9 @@ def read_recipes(filename):
             
             tokens = to_tokens(s)
 
+            if tokens[0] == "Rev":
+                continue
+
             i = 0
             side = lane = None
             if tokens[0][0] in "LR":
