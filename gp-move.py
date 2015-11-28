@@ -2,9 +2,9 @@ from collections import defaultdict
 import heapq
 import sys
 
-RECIPE_FILE = "outfile_4_1.txt"
+RECIPE_FILE = "recipes_0hd.txt"
 
-USE_0HD = False
+USE_0HD = True
 
 recipes = defaultdict(list)
 recipe_strings = {}

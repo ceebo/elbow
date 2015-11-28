@@ -2,9 +2,9 @@ from collections import defaultdict
 import heapq
 import sys
 
-RECIPE_FILE = "outfile_4_1.txt"
+RECIPE_FILE = "recipes_0hd.txt"
 
-USE_0HD = False
+USE_0HD = True
 
 recipes = defaultdict(list)
 recipe_strings = {}
@@ -224,4 +224,4 @@ for i in range(0, len(tokens), 2):
     # convert from quarter diagonals to half diagonals
     lanes.append(int(tokens[i+1]) // 2 + 1)
 
-lookahead("A", 0, lanes, parities, 6)
+lookahead("A", -33, lanes, parities, 6)

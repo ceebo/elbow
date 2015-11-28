@@ -92,9 +92,9 @@ def test(cells, lane):
 
     if delta == (0, 0):
         spaceships = []
-    elif delta == (-5, 5):
-        spaceships = GLIDERS_SW
-        a, b, c, d, e = 1, 1, -1, 0, 0
+#    elif delta == (-5, 5):
+#        spaceships = GLIDERS_SW
+#        a, b, c, d, e = 1, 1, -1, 0, 0
     elif delta == (5, 5):
         spaceships = GLIDERS_SE
         a, b, c, d, e = 1, -1, 1, 0, 1
