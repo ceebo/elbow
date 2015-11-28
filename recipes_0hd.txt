@@ -1,0 +1,466 @@
+m-2AC: e20 e9999 
+m0ADr: e24 e9999 
+m-3ACr: e24 e18 
+Rev1m0ADr: o25 o9999 
+Rev1m-3ACr: o25 o18 
+m-8AA: e37 o9999 
+m-5AAr: e15 e23 o15 
+m-13AAr: e15 e23 o23 
+m-15ACr: e15 e23 o26 
+m-13ACr: e15 e23 o27 
+m3ACr: e17 e33 o15 
+Rev-11m3ACr: o17 o33 e26 
+m4ABr: e26 e16 e48 
+m-7AAr: e27 e19 e9999 
+m-12ABr: e27 e34 e26 
+m-14AC: e27 e40 e15 
+m-19AB: e27 e40 o26 
+m-7AD: e27 e44 o32 
+m-9AB: e27 e50 e9999 
+m-16ABr: e32 o19 e39 
+m-11AAr: e32 o30 e15 
+m-19AAr: e32 o30 e23 
+m-21ACr: e32 o30 e26 
+m-19ACr: e32 o30 e27 
+m-30ABr: e32 o38 e17 
+m-12AA: e32 o46 e21 
+m-6ADr: e15 e9999 e24 e9999 
+m-9ACr: e15 e9999 e24 e18 
+m-16AA: e15 e23 o24 e21 
+m-18AC: e15 e23 o33 e26 
+m-25AD: e15 e35 e24 e16 
+m-13AB: e15 e35 e39 e39 
+m6AA: e16 e30 e32 e33 
+m-20AA: e17 e23 e16 o24 
+R-27m-32AA: e17 e23 o21 e30 
+m-14AA: e17 e23 o21 e34 
+m13AD: e17 e27 o15 e45 
+L-15m3ACr: e17 e33 o32 e9999 
+Rev-1m3ACr: o17 o33 e32 o45 
+m-2ABr: e17 e34 e19 o15 
+m0AA: e17 e34 e19 o25 
+m-29ACr: e17 e36 e9999 o25 
+m-18ABr: e20 o9999 e26 e27 
+L-17m-21AD: o20 e9999 o37 o22 
+m15ACr: e22 e9999 e16 o23 
+m2ADr: e22 e15 e15 o22 
+m-3AB: e22 e16 o25 e29 
+m-5ACr: e22 e16 o31 e21 
+L-8m-16ABr: e26 e15 e26 e33 
+L-8m-4AA: e26 e15 e30 e21 
+m-23AB: e26 e16 e56 e52 
+m-8ABr: e26 e17 e16 e48 
+m2AC: e27 e18 e16 o23 
+m-15AD: e27 e24 e24 o18 
+m-11AB: e27 e24 o21 o9999 
+m-12ADr: e27 e24 o21 e29 
+m-17ACr: e27 e33 e9999 o25 
+L-8m-9AD: o27 o40 e25 o25 
+m-15AB: e27 e42 e20 e51 
+m-6AA: e27 e42 e31 e9999 
+m-22AC: e27 e43 e15 e24 
+m-18AA: e27 e43 o26 e21 
+m-6ABr: e27 e43 o29 e16 
+m-24AC: e27 e43 o30 e28 
+m-13AD: e27 e43 o30 o39 
+R-7m-10AA: e27 e43 o45 o15 
+m-7ACr: e27 e44 o34 e9999 
+m-24ADr: e27 e44 o37 e47 
+m-21AAr: e27 e46 o27 o23 
+m-8ADr: e27 e46 o49 e18 
+R-18m-8ADr: o27 o46 e49 o24 
+m-8AC: e27 e48 o32 e41 
+m-33ACr: e27 e49 e9999 o54 
+m-17AB: e27 e49 o9999 o17 
+m-9AAr: e32 o9999 e23 o15 
+m-17AAr: e32 o9999 e23 o23 
+m-25ACr: e32 e21 e15 e54 
+m-14ABr: e32 o16 e32 e57 
+m-21AB: e32 o16 e32 e58 
+L-27m-42AA: e32 o18 e56 e19 
+m-36AA: e32 o26 e30 o16 
+m-23AAr: e32 o26 e31 e15 
+m-31AAr: e32 o26 e31 e23 
+m-31ACr: e32 o26 e31 e27 
+m-47AB: e32 o26 e32 o19 
+m-27ACr: e32 o29 e26 e15 
+m-22AA: e32 o30 e24 e21 
+m-37ACr: e32 o38 e34 e15 
+m-39ACr: e32 o38 e34 o21 
+m-33AB: e32 o38 e47 e39 
+m-38AA: e32 o38 e49 e25 
+m-10ADr: e32 o46 e24 e9999 
+L-14m-12ADr: o16 o46 e24 o51 o9999 
+L-14m-15ACr: o16 o46 e24 o51 o15 
+R-21m-1AAr: o17 o23 e29 o9999 o21 
+R-21m2AA: o17 o23 e29 o23 e15 
+R-21m-6AA: o17 o23 e29 o23 e23 
+R-21m-8AC: o17 o23 e29 o23 e26 
+R-21m-6AC: o17 o23 e29 o23 e27 
+L-32m13AD: o17 o27 e9999 o20 o45 
+L-21m-9AAr: e22 e15 e25 e42 e54 
+R-1m-7AAr: o22 o16 e21 e19 o21 
+Rev-19m9AB: e22 e16 o27 e39 e25 
+L-8m-1AAr: e26 e15 e17 e9999 e23 
+L-8m-4ADr: e26 e15 e18 e9999 e28 
+L-8m-7AD: e26 e15 e26 e16 e9999 
+L-8m-10AC: e26 e15 e26 e16 e15 
+L-8m-16AA: e26 e15 e26 o21 o15 
+L-8m-24AA: e26 e15 e26 o21 o23 
+L-8m-26AC: e26 e15 e26 o21 o26 
+L-8m-24AC: e26 e15 e26 o21 o27 
+L-8m-11AAr: e26 e15 e30 e27 o15 
+L-8m-19AAr: e26 e15 e30 e27 o23 
+L-8m-21ACr: e26 e15 e30 e27 o26 
+L-8m-19ACr: e26 e15 e30 e27 o27 
+L-20m-28ABr: e26 e17 e15 e26 e33 
+L-20m-16AA: e26 e17 e15 e30 e21 
+L-11m-19AD: o27 o20 o9999 o43 o16 
+Rev-1m-8ABr: o27 o24 e21 o38 o22 
+Rev6m-10ABr: o27 o27 o9999 o58 e19 
+L-8m2AA: o27 o40 e25 e33 o20 
+R-2m-29AAr: e27 e42 e9999 e20 e31 
+R-2m-24AA: e27 e42 e9999 e21 e9999 
+R-2m-30ABr: e27 e42 e9999 e34 e38 
+Rev19m-20AC: e27 e42 e31 e39 o33 
+L-23m-21AB: o27 o42 o45 o18 o45 
+Rev10m-27AAr: o27 o44 o21 e21 o29 
+Rev10m-33AD: o27 o44 o21 e21 o47 
+Rev15m-10ABr: o27 o44 o26 e22 e19 
+R-18m-16ABr: o27 o44 e37 o18 o45 
+R-18m-11ACr: o27 o46 e49 o22 o15 
+Rev5m-22AC: e27 e47 o38 e9999 e46 
+Rev5m-29ACr: e27 e47 o38 e24 e59 
+Rev-3m-6AA: o27 o48 e32 o27 o15 
+L-23m-9AB: o32 o27 o15 o18 o22 
+R6m-23ACr: e32 e34 o19 e18 o9999 
+R6m-24ABr: e32 e34 o19 e20 e9999 
+R6m-32AC: e32 e34 o19 e27 e34 
+R6m-31AAr: e32 e34 o19 e27 e35 
+R6m-36ABr: e32 e34 o19 e34 o39 
+R6m-25AD: e32 e34 o19 e35 e41 
+R6m-2ABr: e32 e34 o23 o18 e9999 
+R6m-22ABr: e32 e34 o29 o41 e19 
+Rev-10m-8ADr: o32 o52 o18 e24 o24 
+Rev-10m-25AB: o32 o52 o18 e29 o40 
+Rev-10m-28AA: o32 o52 o18 e35 o18 
+Rev-10m-10ADr: o32 o52 o27 o27 o9999 
+Rev-10m-13ACr: o32 o52 o27 o27 o23 
+Rev-10m-19AD: o32 o52 o27 e15 e35 
+Rev-10m-10ABr: o32 o52 o27 e27 o17 
+Rev-10m-7ACr: o32 o52 o50 e16 o17 
+Rev-11m-2ABr: e32 o16 e26 e16 e48 
+R-45m-16ABr: e32 o25 e20 e51 e39 
+L-25m-27AB: o32 e38 o18 e47 e40 
+m0BAr: e21 e15 
+m-8BAr: e21 e23 
+m-10BCr: e21 e26 
+m-8BCr: e21 e27 
+m-3BDr: e15 e9999 e24 
+m-5BA: e16 e19 e9999 
+m-10BB: e16 e34 e26 
+m-12BCr: e16 e40 e15 
+m-17BBr: e16 e40 o26 
+m-5BDr: e16 e44 o32 
+m-7BBr: e16 e50 e9999 
+m8BCr: e19 e55 o9999 
+m-1BA: e19 e57 o15 
+m-9BA: e19 e57 o23 
+m-11BC: e19 e57 o26 
+m-9BC: e19 e57 o27 
+m-11BA: e21 e24 e21 
+m-13BC: e21 e33 e26 
+m1BBr: e23 e21 o39 
+m-3BC: e25 o34 e9999 
+m1BDr: e15 e9999 e55 e9999 
+m-2BCr: e15 e9999 e55 e15 
+m4BCr: e16 e18 e16 o23 
+m-13BDr: e16 e24 e24 o18 
+m-9BBr: e16 e24 o21 o9999 
+m-10BD: e16 e24 o21 e29 
+m0BB: e16 e30 e15 e9999 
+m-15BC: e16 e33 e9999 o25 
+m-17BC: e16 e37 e15 o38 
+R-6m-7BDr: o16 o40 e25 o25 
+m-13BBr: e16 e42 e20 e51 
+m-4BAr: e16 e42 e31 e9999 
+m-20BCr: e16 e43 e15 e24 
+m-16BAr: e16 e43 o26 e21 
+m-4BB: e16 e43 o29 e16 
+m-22BCr: e16 e43 o30 e28 
+m-11BDr: e16 e43 o30 o39 
+L-5m-8BAr: e16 e43 o45 o15 
+m-5BC: e16 e44 o34 e9999 
+m-22BD: e16 e44 o37 e47 
+m-19BA: e16 e46 o27 o23 
+m-6BD: e16 e46 o49 e18 
+L-16m-6BD: o16 o46 e49 o24 
+m-6BCr: e16 e48 o32 e41 
+m-31BC: e16 e49 e9999 o54 
+m-15BBr: e16 e49 o9999 o17 
+L4m-4BCr: o19 o42 o53 e19 
+Rev2m-8BAr: e19 e55 e30 e27 
+m-12BAr: e19 e57 o24 e21 
+m-14BCr: e19 e57 o33 e26 
+m-18BCr: e19 e58 e16 o36 
+m3BBr: e19 e59 e23 e16 
+m-6BAr: e19 e59 e24 e29 
+Rev1m-9BC: o21 e9999 o15 e20 
+m5BDr: e21 o9999 e15 o27 
+m6BB: e21 o9999 e15 o29 
+m-1BBr: e21 e21 e44 e46 
+m-9BDr: e21 e24 e24 e9999 
+m-17BA: e21 e33 e15 e15 
+m-25BA: e21 e33 e15 e23 
+m-27BC: e21 e33 e15 e26 
+m-25BC: e21 e33 e15 e27 
+m-19BBr: e21 e33 e16 e16 
+m-20BB: e21 e33 e35 e19 
+m-22BAr: e21 e33 e40 e9999 
+m-27BDr: e21 e33 e46 e9999 
+m-30BCr: e21 e33 e46 e18 
+m-29BBr: e21 e33 e52 o9999 
+m-24BB: e21 e33 e52 e16 
+m-21BBr: e21 e33 e59 e16 
+m-19BC: e21 e36 e23 o26 
+m-10BAr: e21 o15 e29 e21 
+m-2BAr: e21 o16 o22 o15 
+m-13BA: e21 o16 o27 e45 
+m-18BD: e21 o16 o42 e22 
+m3BA: e23 e21 o19 e16 
+m6BAr: e23 e21 o21 o9999 
+m10BAr: e23 e21 o35 o9999 
+Rev5m-9BBr: e25 e9999 e19 e39 
+m-1BDr: e25 e9999 e28 e23 
+m5BC: e25 e9999 e39 o20 
+Rev1m-18BD: o25 o16 o16 o17 
+m2BD: e25 o15 o9999 o30 
+m4BD: e25 o15 e25 e15 
+L-12m6BCr: o25 e15 o58 o15 
+m-12BB: e25 o21 o21 e23 
+R-15m-2BD: o31 o9999 o54 o30 
+R-15m5BA: o31 o17 o16 o18 
+R-9m-17BDr: o16 o20 o9999 o43 o16 
+Rev1m-6BB: o16 o24 e21 o38 o22 
+Rev-6m-8BB: o16 o27 o9999 o58 e19 
+R-6m4BAr: o16 o40 e25 e33 o20 
+L0m-27BA: e16 e42 e9999 e20 e31 
+L0m-22BAr: e16 e42 e9999 e21 e9999 
+L0m-28BB: e16 e42 e9999 e34 e38 
+Rev-19m-18BCr: e16 e42 e31 e39 o33 
+R-21m-19BBr: o16 o42 o45 o18 o45 
+Rev-10m-25BA: o16 o44 o21 e21 o29 
+Rev-10m-31BDr: o16 o44 o21 e21 o47 
+Rev-15m-8BB: o16 o44 o26 e22 e19 
+L-16m-14BB: o16 o44 e37 o18 o45 
+L-16m-9BC: o16 o46 e49 o22 o15 
+Rev-5m-20BCr: e16 e47 o38 e9999 e46 
+Rev-5m-27BC: e16 e47 o38 e24 e59 
+Rev3m-4BAr: o16 o48 e32 o27 o15 
+Rev1m0BAr: o17 o25 o27 o16 e15 
+Rev8m21BDr: e17 e46 e50 o28 o47 
+L-8m-19BBr: e19 e42 o9999 o32 e23 
+L-8m-12BAr: e19 e42 o9999 o32 e24 
+L-8m-24BD: e19 e42 o9999 o32 e39 
+L-8m-32BD: e19 e42 o9999 o32 e51 
+L-8m-13BBr: e19 e42 o9999 o32 o15 
+L-8m-17BDr: e19 e42 o9999 o32 o19 
+L4m-13BBr: o19 o42 o53 o19 o22 
+L4m-9BC: o19 o42 o53 e36 o18 
+R-23m8BCr: o19 o55 o18 o28 o9999 
+Rev2m-5BC: e19 e55 e30 e18 e15 
+Rev2m7BC: e19 e55 e30 e18 o15 
+Rev2m6BB: e19 e55 e30 e18 o43 
+R13m5BC: e21 e21 e9999 o53 e19 
+R1m-4BB: o21 o21 o44 o32 o15 
+R1m-8BD: o21 o21 o44 o32 o19 
+R1m-10BB: o21 o21 o44 o32 e23 
+R1m-3BA: o21 o21 o44 o32 e24 
+R1m-15BDr: o21 o21 o44 o32 e39 
+R1m-23BDr: o21 o21 o44 o32 e51 
+Rev1m-10BB: e21 e33 e24 e15 e22 
+Rev-5m-5BDr: o21 e15 o26 o25 o9999 
+Rev-5m-8BCr: o21 e15 o26 o25 o18 
+Rev1m6BAr: e21 o16 e46 e46 e15 
+Rev11m9BA: o21 e16 e26 e26 o9999 
+Rev11m-23BA: e21 o16 o27 e53 e29 
+Rev11m-29BDr: e21 o16 o27 e53 e47 
+Rev1m-21BBr: e21 o16 o55 e9999 e22 
+L-9m1BBr: o23 o22 o16 o21 e39 
+Rev-5m1BBr: e23 e24 e9999 o38 o39 
+Rev-6m1BBr: e23 e40 e59 e16 o39 
+Rev5m-2BCr: e25 e9999 e19 e18 e26 
+Rev5m-7BA: e25 e9999 e19 e19 e16 
+Rev5m-4BAr: e25 e9999 e19 e21 e9999 
+Rev5m0BAr: e25 e9999 e19 e35 e9999 
+L-22m-2BD: e25 e9999 e41 e19 o25 
+L-22m-11BA: e25 e9999 e41 e19 o29 
+L-22m5BDr: e25 e9999 e41 e33 e9999 
+L-22m2BCr: e25 e9999 e41 e33 e15 
+Rev1m-5BDr: o25 o16 o16 o16 o9999 
+Rev1m-8BCr: o25 o16 o16 o16 o18 
+Rev1m-10BAr: o25 o16 o16 o29 o9999 
+Rev5m11BA: o25 e15 o38 o47 o16 
+Rev5m7BDr: o25 e15 o38 o52 o23 
+Rev5m-4BB: o25 e15 o38 e21 o16 
+Rev5m-10BCr: o25 e15 o38 e21 o37 
+Rev5m-9BC: o25 e15 o38 e38 o18 
+Rev5m-27BC: o25 e15 o38 e38 o34 
+Rev-4m4BAr: o25 e15 o56 e50 o24 
+L-3m-7BA: e25 o21 o18 e26 e15 
+R-17m-7BDr: e25 o21 o19 e33 e9999 
+R-17m-10BCr: e25 o21 o19 e33 e18 
+R11m3BC: e25 o40 e15 o53 e19 
+L-6m6BCr: o26 o9999 o18 o9999 e50 
+L-6m-16BAr: o26 o9999 o18 o37 o31 
+R-21m-7BA: e26 e9999 e33 e48 e27 
+R-15m-11BDr: o31 o17 o16 o34 o26 
+R-15m-13BA: o31 o20 o42 o25 o21 
+R-15m-2BAr: o31 o25 o20 o33 o15 
+R-15m-25BC: o31 o35 o36 o42 o60 
+R-15m4BD: o31 o35 o48 e36 o9999 
+R-15m-16BAr: o31 o36 o15 o18 o38 
+R-15m-5BA: o31 o36 o15 o38 e37 
+R-15m-3BBr: o31 o37 o9999 e18 o45 
+R-15m5BBr: o31 o37 o9999 e49 o15 
+R-15m7BA: o31 o37 o9999 e50 o15 
+R-15m-12BB: o31 o43 o31 e16 o43 
+L-5m-9CD: o20 o22 
+m-6CC: e20 e42 
+m-1CD: e20 e55 e50 
+m-2CA: e37 e9999 o29 
+m-8CDr: e37 e9999 o47 
+m-12CC: e9999 e18 e9999 e18 
+m-30CC: e9999 e18 e9999 e34 
+m-12CBr: e9999 e18 e19 o9999 
+m-13CD: e9999 e18 e38 e9999 
+m-16CC: e9999 e18 e38 e42 
+m13CCr: e17 e16 o53 e52 
+m-2CBr: e20 e18 e19 o39 
+m3CAr: e20 e18 e30 o15 
+m-5CAr: e20 e18 e30 o23 
+m-7CCr: e20 e18 e30 o26 
+m-5CCr: e20 e18 e30 o27 
+m-16CBr: e20 e18 e38 o17 
+m2CA: e20 e18 e46 e21 
+m-37CCr: e20 e23 e47 e22 
+Rev7m-21CB: e20 e33 e9999 e30 
+L-23m-7CAr: e20 e33 e21 e9999 
+m-7CAr: e20 e33 e21 e15 
+Rev-1m-7CAr: o20 o33 o21 o45 
+m-21CB: e20 e33 e43 e20 
+m-14CBr: e20 e33 e44 e9999 
+m-15CD: e20 e33 e53 e17 
+m-13CAr: e20 e36 e35 e55 
+m-17CB: e20 e43 e22 e22 
+L-11m2CA: o20 o56 o9999 o21 
+L-11m5CAr: o20 o56 o23 e15 
+L-11m-3CAr: o20 o56 o23 e23 
+L-11m-5CCr: o20 o56 o23 e26 
+L-11m-3CCr: o20 o56 o23 e27 
+m0CBr: e36 e15 e17 o55 
+R-2m-13CAr: o36 o15 o18 o38 
+m-8CA: e36 e15 e21 e21 
+m-14CC: e36 e15 e29 e34 
+m-9CB: e36 e15 e29 e38 
+L-12m-3CB: o36 o15 o29 o40 
+m-5CB: e36 e15 e54 o36 
+m-4CA: e36 e15 e56 e20 
+m-4CDr: e36 e15 o16 e9999 
+R-2m0CBr: e37 e9999 o18 e45 
+m6CBr: e37 e9999 o31 e24 
+m-16CA: e37 e9999 o42 e9999 
+m3CCr: e38 e31 e9999 e34 
+m-6CDr: e39 e9999 o19 e26 
+Rev-8m-38CA: o9999 o18 o9999 o48 e48 
+Rev1m2CA: e9999 e19 e25 o21 e17 
+Rev-11m-2CA: o9999 o41 e26 o9999 e29 
+Rev-11m-8CDr: o9999 o41 e26 o9999 e47 
+L-21m-2CA: e9999 e41 o32 e47 e29 
+L-21m-8CDr: e9999 e41 o32 e47 e47 
+Rev-8m-2CA: o9999 o48 e34 o9999 e29 
+Rev-8m-8CDr: o9999 o48 e34 o9999 e47 
+L-29m-2CA: e9999 e51 e35 e16 o29 
+L-29m-8CDr: e9999 e51 e35 e16 o47 
+R-19m-2CA: e9999 e54 e48 e19 e29 
+R-19m-8CDr: e9999 e54 e48 e19 e47 
+R-22m-2CA: e9999 e54 e58 e9999 o29 
+R-22m-8CDr: e9999 e54 e58 e9999 o47 
+R-18m-2CA: o9999 o54 e23 o9999 e29 
+R-18m-8CDr: o9999 o54 e23 o9999 e47 
+Rev7m4CA: e17 e16 e23 e16 e9999 
+Rev7m9CCr: e17 e16 e23 e20 o17 
+Rev7m10CA: e17 e16 e23 e23 o9999 
+Rev7m-4CC: e17 e16 e23 e32 e19 
+L-13m-28CA: e20 e18 e18 e56 e19 
+Rev4m-16CA: e20 e33 e43 e58 e55 
+Rev-7m-12CA: o20 o43 o22 o36 o24 
+L-11m4CDr: o20 o56 o9999 o24 o9999 
+L-11m1CCr: o20 o56 o9999 o24 o18 
+L-11m-6CA: o20 o56 o23 e24 o21 
+L-11m-8CC: o20 o56 o23 e33 o26 
+L-11m-15CD: o20 o56 o35 o24 o16 
+L-11m-3CB: o20 o56 o35 o39 o39 
+L4m-8CA: o36 o15 o17 o44 o15 
+L4m-16CA: o36 o15 o17 o44 o23 
+L4m-18CC: o36 o15 o17 o44 o26 
+L4m-16CC: o36 o15 o17 o44 o27 
+R-2m-3CCr: o36 o15 o18 o16 o26 
+R-2m-10CBr: o36 o15 o18 o18 o22 
+R-2m-5CB: o36 o15 o18 o24 o22 
+R-2m-9CAr: o36 o15 o18 o31 o9999 
+L-8m-6CBr: e36 e15 e29 e27 e20 
+R-2m-4CBr: e37 e9999 o18 e20 e9999 
+R-2m-5CAr: e37 e9999 o18 e27 e15 
+R-2m-15CCr: e37 e9999 o18 e27 e26 
+R-2m-13CCr: e37 e9999 o18 e27 e27 
+L-32m-27CAr: e37 e9999 o28 e29 e52 
+L-17m-7CAr: e37 e9999 o33 e48 e29 
+L-17m-13CD: e37 e9999 o33 e48 e47 
+R4m-11CAr: o37 o9999 e49 o20 o25 
+R4m-13CD: o37 o9999 e49 o21 o42 
+Rev1m-2CDr: o39 o9999 e29 o25 o9999 
+Rev1m-5CCr: o39 o9999 e29 o25 o18 
+L-17m-3CAr: e39 e9999 o33 e48 e19 
+L-17m3CD: e39 e9999 o33 e48 e60 
+R4m-7CB: o39 o9999 e49 o16 o36 
+R4m-12CC: o39 o9999 e49 o18 o9999 
+R4m-19CD: o39 o9999 e49 o35 o9999 
+R4m-22CC: o39 o9999 e49 o35 o18 
+R4m-1CAr: o39 o9999 e49 e16 e29 
+R4m-7CD: o39 o9999 e49 e16 e47 
+R4m-5CB: o39 o9999 e49 e20 o39 
+R4m0CC: o39 o9999 e49 e30 o22 
+Rev5m-2CA: o43 e9999 e19 o15 o29 
+Rev5m-8CDr: o43 e9999 e19 o15 o47 
+R-6m-24CC: o43 e9999 e39 e29 o21 
+R-6m-22CC: o43 e9999 e39 e29 e15 
+Rev-8m-20CA: o43 o15 e56 o41 e60 
+R-2m-7CAr: o43 o31 e16 o18 o37 
+R-2m-20CC: o43 o31 e16 o18 e40 
+Rev5m-8CC: o43 o38 o9999 o20 e59 
+m-3DC: e9999 
+m-5DA: e16 e15 e9999 o29 
+m-11DDr: e16 e15 e9999 o47 
+m-15DC: e16 e18 e9999 e18 
+m-33DC: e16 e18 e9999 e34 
+m-15DBr: e16 e18 e19 o9999 
+m-16DD: e16 e18 e38 e9999 
+m-19DC: e16 e18 e38 e42 
+R-5m-3DBr: e16 e15 e9999 o18 e45 
+Rev-8m-41DA: o16 o18 o9999 o48 e48 
+Rev1m-1DA: e16 e19 e25 o21 e17 
+Rev-11m-5DA: o16 o41 e26 o9999 e29 
+Rev-11m-11DDr: o16 o41 e26 o9999 e47 
+L-24m-5DA: e16 e41 o32 e47 e29 
+L-24m-11DDr: e16 e41 o32 e47 e47 
+Rev-8m-5DA: o16 o48 e34 o9999 e29 
+Rev-8m-11DDr: o16 o48 e34 o9999 e47 
+L-32m-5DA: e16 e51 e35 e16 o29 
+L-32m-11DDr: e16 e51 e35 e16 o47 
+R-22m-5DA: e16 e54 e48 e19 e29 
+R-22m-11DDr: e16 e54 e48 e19 e47 
+R-25m-5DA: e16 e54 e58 e9999 o29 
+R-25m-11DDr: e16 e54 e58 e9999 o47 
+R-21m-5DA: o16 o54 e23 o9999 e29 
+R-21m-11DDr: o16 o54 e23 o9999 e47 
