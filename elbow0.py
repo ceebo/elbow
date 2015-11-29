@@ -10,7 +10,7 @@ CLEANUP_DEPTH = 1
 MAX_POP = [40, 40, 40, 40, 30, 30, 30, 30]
 
 GENS = 200
-MAX_DIFF = 60
+MAX_DIFF = 72
 
 OUTFILE = '/home/user/life/elbow_0hd_%d.txt' % time()
 
@@ -53,22 +53,50 @@ def coord_to_string(x, y):
 def canonical(cells):
     return "".join(sorted(coord_to_string(x, y) for x, y in to_pairs(cells)))
 
-elbows = [False, "D", "C", "B", "A", False, False,
-          False, False, "Ar", "Br", "Cr", "Dr"]
+block_elbows = [False, "D", "C", "B", "A", False, False,
+                False, False, "Ar", "Br", "Cr", "Dr"]
+
+hive_elbows = ["E", "F", "G", "H", "I", "J", "K", False, "L", "M", False, False, "N"]
 
 def is_elbow(cells):
-    # insist on 4 on cells
-    if len(cells) != 8:
-        return False
+
+    # detect blocks
+    if len(cells) == 8:
    
-    # rule out tubs
-    if max(cells[::2]) - min(cells[::2]) != 1:
-        return False
+        # rule out tubs
+        if max(cells[::2]) - min(cells[::2]) != 1:
+            return False
 
-    # work out the elbow type based on the value of the furthest NW lane
-    min_l = min(cells[i] + cells[i+1] for i in range(0, len(cells), 2))
+        # work out the elbow type based on the value of the furthest NW lane
+        min_l = min(cells[i] + cells[i+1] for i in range(0, len(cells), 2))
 
-    return elbows[min_l + 6] if abs(min_l) <= 6 else False
+        if abs(min_l) <= 6:
+            return block_elbows[min_l + 6]
+
+    elif len(cells) == 12:
+        
+        # hives are the only pattern with 6 cells and 4x3 bounding box
+        w = max(cells[::2]) - min(cells[::2]) + 1
+        h = max(cells[1::2]) - min(cells[1::2]) + 1
+
+        if (w, h) == (4, 3):
+            reflect = ""
+        elif (w, h) == (3, 4):
+            reflect = "r"
+        else:
+            return False
+
+        min_l = min(cells[i] + cells[i+1] for i in range(0, len(cells), 2))
+        
+        if reflect:
+            min_l = -min_l
+
+        if abs(min_l) <= 6:
+            elbow = hive_elbows[min_l + 6]
+            return elbow + reflect if elbow else False
+        
+    return False
+        
 
 def test(cells, lane):
     cells2 = g.evolve(cells, 4)
@@ -320,11 +348,23 @@ def search(elbow):
         new_pats = next_pats
 
 BLOCK = g.parse("2o$2o!")
+HIVE = g.parse("b2o$o2bo$b2o!")
 
 ELBOWS = [g.transform(BLOCK, 0, -2),
           g.transform(BLOCK, 0, -3),
           g.transform(BLOCK, 0, -4),
-          g.transform(BLOCK, 0, -5)]
+          g.transform(BLOCK, 0, -5),
+
+          g.transform(HIVE, 0, -7),
+          g.transform(HIVE, 0, -6),
+          g.transform(HIVE, 0, -5),
+          g.transform(HIVE, 0, -4),
+          g.transform(HIVE, 0, -3),
+          g.transform(HIVE, 0, -2),
+          g.transform(HIVE, 0, -1),
+          g.transform(HIVE, 1, 0),
+          g.transform(HIVE, 2, 0),
+          g.transform(HIVE, 5, 0)]
 
 # sanity check to make sure all elbows are distinct
 elbow_types = set()
