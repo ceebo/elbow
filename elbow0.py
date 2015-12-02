@@ -58,6 +58,11 @@ block_elbows = [False, "D", "C", "B", "A", False, False,
 
 hive_elbows = ["E", "F", "G", "H", "I", "J", "K", False, "L", "M", False, False, "N"]
 
+hf_elbows = ["Z", "Y", "X", "W", "V", "U", "T", "S", "R", "Q", "P", 
+             "Pr", "Qr", "Rr", "Sr", "Tr", "Ur", "Vr", "Wr", "Xr", "Yr", "Zr"]
+
+HF_CELLS = sorted(to_pairs(g.parse("6bo$5bobo$5bobo$6bo2$b2o7b2o$o2bo5bo2bo$b2o7b2o2$6bo$5bobo$5bobo$6bo!")))
+
 def is_elbow(cells):
 
     # detect blocks
@@ -94,6 +99,20 @@ def is_elbow(cells):
         if abs(min_l) <= 6:
             elbow = hive_elbows[min_l + 6]
             return elbow + reflect if elbow else False
+
+    elif len(cells) == 48:
+
+        x0 = min(cells[::2])
+        y0 = min(cells[1::2])
+        
+        canon_cells = sorted([(x-x0, y-y0) for x, y in to_pairs(cells)])
+
+        if canon_cells != HF_CELLS:
+            return False
+
+        min_l = min(cells[i] + cells[i+1] for i in range(0, len(cells), 2))
+        
+        return hf_elbows[min_l + 15] if -15 <= min_l <= 6 else False
         
     return False
         
@@ -349,6 +368,7 @@ def search(elbow):
 
 BLOCK = g.parse("2o$2o!")
 HIVE = g.parse("b2o$o2bo$b2o!")
+HF = g.parse("6bo$5bobo$5bobo$6bo2$b2o7b2o$o2bo5bo2bo$b2o7b2o2$6bo$5bobo$5bobo$6bo!")
 
 ELBOWS = [g.transform(BLOCK, 0, -2),
           g.transform(BLOCK, 0, -3),
@@ -364,7 +384,19 @@ ELBOWS = [g.transform(BLOCK, 0, -2),
           g.transform(HIVE, 0, -1),
           g.transform(HIVE, 1, 0),
           g.transform(HIVE, 2, 0),
-          g.transform(HIVE, 5, 0)]
+          g.transform(HIVE, 5, 0),
+
+          g.transform(HF, 0, -11),
+          g.transform(HF, 0, -12),
+          g.transform(HF, 0, -13),
+          g.transform(HF, 0, -14),
+          g.transform(HF, 0, -15),
+          g.transform(HF, 0, -16),
+          g.transform(HF, 0, -17),
+          g.transform(HF, 0, -18),
+          g.transform(HF, 0, -19),
+          g.transform(HF, 0, -20),
+          g.transform(HF, 0, -21)]
 
 # sanity check to make sure all elbows are distinct
 elbow_types = set()
