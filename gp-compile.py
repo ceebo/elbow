@@ -6,6 +6,13 @@ RECIPE_FILE = "recipes_0hd.txt"
 
 USE_0HD = True
 
+# For every recipe that is causing a problem add the glider number to
+# the list for that recipe
+dodgy_bits = {
+    "R123m456AB" : [ 13, 21, 34, 55 ],
+    "L987m321CD" : [ 89, 144 ]
+}
+
 recipes = defaultdict(list)
 recipe_strings = {}
 
@@ -27,7 +34,8 @@ def dijkstra(elbow, dist, lanes):
             for e2, d2, l1, c2 in recipes[e1]:
 
                 if l1 is not None:
-                    if l1 + d1 != lanes[-remaining]:
+                    lane, exceptions = lanes[-remaining]
+                    if l1 + d1 != lane or (e2, d2, l1, c2) in exceptions:
                         continue
                     else:
                         hit = 1
@@ -158,6 +166,8 @@ def switch_phase(recipe):
 
 def read_recipes(filename):
 
+    global lanes
+
     with open(filename) as f:
         for s in f:
             
@@ -182,6 +192,8 @@ def read_recipes(filename):
 
             recipe_string = s[s.find(":")+2:].rstrip("\r\n")
 
+            description_string = s[:s.find(":")]
+
 #            Uncommment to use only central blocks as elbow
 #            if tokens[i+2].count("A") != 2:
 #                continue
@@ -192,12 +204,14 @@ def read_recipes(filename):
                 if side is None or side == c:
                     recipes[elbow_in].append((elbow_out, move, lane, cost))
                     recipe_strings[(elbow_in, elbow_out, move, lane)] = recipe_string
+                    if description_string in dodgy_bits:
+                        for lane_num in dodgy_bits[description_string]:
+                            lanes[lane_num][1].append((elbow_out, move, lane, cost))
+
                 elbow_in = reflect(elbow_in)
                 elbow_out = reflect(elbow_out)
                 recipe_string = reflect_recipe(recipe_string)
 
-
-read_recipes(RECIPE_FILE)
 
 input_string = ""
 
@@ -222,6 +236,8 @@ for i in range(0, len(tokens), 2):
         assert(False)
 
     # convert from quarter diagonals to half diagonals
-    lanes.append(int(tokens[i+1]) // 2 + 1)
+    lanes.append((int(tokens[i+1]) // 2 + 1, []))
+
+read_recipes(RECIPE_FILE)
 
 lookahead("A", -33, lanes, parities, 6)
