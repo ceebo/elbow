@@ -9,8 +9,22 @@ USE_0HD = True
 # For every recipe that is causing a problem add the glider number to
 # the list for that recipe
 dodgy_bits = {
-    "R123m456AB" : [ 13, 21, 34, 55 ],
-    "L987m321CD" : [ 89, 144 ]
+    "L-16m3HQr" : [ 538 ],
+    "L-20m-7EKr" : [ 537 ],
+    "L-19m-2HB" : [ 537 ],
+    "R-15m-11PGr" : [ 536 ],
+    "L-11m-3QQr" : [ 536 ],
+    "R-15m-10PFr" : [ 536 ],
+    "L-14m19HK" : [ 538 ],
+    "R-7m-1RCr" : [ 536 ],
+    "L-3m-4HD" : [ 478 ],
+    "L4m-4BCr" : [ 479 ],
+    "L-11m3CKr" : [ 480 ],
+    "R-3m-11JC" : [ 479 ],
+    "m1VB" : [ 478 ],
+    "m10EBr" : [ 479 ],
+    "R-13m-3HDr" : [ 479 ],
+    "R-13m-6HCr" : [ 479 ]
 }
 
 recipes = defaultdict(list)
@@ -33,9 +47,11 @@ def dijkstra(elbow, dist, lanes):
 
             for e2, d2, l1, c2 in recipes[e1]:
 
+                if (e2, d2, l1, c2) in lanes[-remaining][1]:
+                    continue
+
                 if l1 is not None:
-                    lane, exceptions = lanes[-remaining]
-                    if l1 + d1 != lane or (e2, d2, l1, c2) in exceptions:
+                    if l1 + d1 != lanes[-remaining][0]:
                         continue
                     else:
                         hit = 1
