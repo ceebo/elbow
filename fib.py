@@ -272,6 +272,14 @@ def search(elbow):
                 
                 if len(end_cells) > 2 * MAX_POP:
                     continue
+
+                tooWide = False
+                for i in range(0, len(end_cells), 2):
+                    if abs(end_cells[i]+end_cells[i+1]) > 15:
+                        tooWide = True
+
+                if tooWide:
+                    continue
    
                 new_depth = depth - 1
                 new_recipe = recipe + (t1, t2)
